@@ -1,4 +1,5 @@
-# dataset ignored
+# Dataset ignored
+# Dataset Matrices ignored
 
 /Dataset (Labelled Images)
 *.npy
