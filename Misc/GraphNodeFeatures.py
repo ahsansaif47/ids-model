@@ -51,14 +51,11 @@ D_new = D * A_new
 print(D_new)
 
 # Weight Matrix
-W = np.matrix([
-    [1],
-    [-1]
-])
+W0 = np.random.randn(X.shape[1], 8) * 0.01
 
 # Reducing feature of output feature representation..
 print("Output feature representation..")
-final = D**-1 * A_new * X * W
+final = D**-1 * A_new * X * W0
 
 
 def relu(x):
@@ -74,16 +71,16 @@ output = H_1
 print("Printing A_new matrix..")
 print(A_new)
 
-# G = nx.from_numpy_matrix(np.array(A_new))
+G = nx.from_numpy_matrix(np.array(A_new))
 # nx.draw_networkx_edges(G, pos=nx.spring_layout(
 #     G), arrowstyle="<|-", style="dashed")
 # plt.show()
 # # nx.draw(G)
 # # plt.savefig("Sample Graph.png")
-# feature_representations = {
-#     node: np.array(output)[node]
-#     for node in G.nodes()
-# }
+feature_representations = {
+    node: np.array(output)[node]
+    for node in G.nodes()
+}
 
-# print("Printing feature representation..")
-# print(feature_representations)
+print("Printing feature representation..")
+print(feature_representations)
