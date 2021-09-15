@@ -1,0 +1,8 @@
+numpy==1.19.2
+networkx==2.5.1
+pandas==1.2.5
+tensorflow-gpu==2.6.0
+tensorboard==2.6.0
+pillow==8.3.0
+scipy==1.7.1
+spektral==1.0.8
