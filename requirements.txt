@@ -8,3 +8,4 @@ scipy==1.7.1
 spektral==1.0.8
 pdf2image==1.16.0
 opencv-python==4.5.2.54
+pytesseract==0.3.8
