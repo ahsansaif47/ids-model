@@ -1,9 +1,14 @@
 # Import required packages
 import cv2
 import pytesseract
+import os
 
 # Mention the installed location of Tesseract-OCR in your system
-pytesseract.pytesseract.tesseract_cmd = 'System_path_to_tesseract.exe'
+pytesseract.pytesseract.tesseract_cmd = 'C:/Program Files/Tesseract-OCR/tesseract.exe'
+
+im_path = '../Image Files/'
+im_files = os.listdir(im_path)
+
 
 # Read image from which text needs to be extracted
 img = cv2.imread("sample.jpg")
