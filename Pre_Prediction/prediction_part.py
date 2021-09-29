@@ -20,4 +20,4 @@ def fileProcessing(f):
         print("Image File Found")
 
 
-fileProcessing(f_path+files[75])
+fileProcessing(f_path+files[0])
