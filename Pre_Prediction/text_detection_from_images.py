@@ -60,8 +60,7 @@ Text = []
 # Extracted text is then written into the text file
 
 
-print("Xmin     Xmax     Ymin     yMax     Text")
-i = 0
+# i = 0
 for cnt in contours:
     x, y, w, h = cv2.boundingRect(cnt)
     xm = x + w
@@ -91,7 +90,7 @@ for cnt in contours:
     # Appending the text into file
     # file.write(text)
     # file.write("\n")
-    i += 1
+    # i += 1
     # Close the file
     # file.close
 
