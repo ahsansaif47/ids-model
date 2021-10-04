@@ -36,9 +36,12 @@ def nodeFeatures(A):
     # Weight Matrix
     W0 = np.random.randn(X.shape[1], 8) * 0.01
 
+    print("Printing Weights")
+    print(W0)
+
     # Reducing feature of output feature representation..
     print("Output feature representation..")
-    final = D**-1 * A_new * X * W0
+    final = D_new**-1 * A_new * X * W0
 
     def relu(x):
         return np.maximum(0, x)
@@ -75,8 +78,8 @@ def nodeFeatures(A):
 
     vals = np.array(vals)
 
-    print("Prining features in an array", vals)
+    # print("Prining features in an array", vals)
 
-    print("Shape of vals is: ", np.shape(vals))
+    # print("Shape of vals is: ", np.shape(vals))
 
     return vals
