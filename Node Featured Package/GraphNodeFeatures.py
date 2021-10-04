@@ -78,3 +78,5 @@ def nodeFeatures(A):
     print("Prining features in an array", vals)
 
     print("Shape of vals is: ", np.shape(vals))
+
+    return vals
