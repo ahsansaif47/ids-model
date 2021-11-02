@@ -2,9 +2,7 @@ from PIL.Image import Image
 import networkx as nx
 from networkx.algorithms.shortest_paths.weighted import single_source_dijkstra
 import pandas as pd
-import matplotlib.pyplot as plt
 from pandas.core.frame import DataFrame
-from PIL import Image
 
 
 # csv = './A-10.csv'
