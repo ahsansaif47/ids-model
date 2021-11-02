@@ -2,6 +2,8 @@
 # Dataset Matrices ignored
 
 /Dataset (Labelled Images)
+/Project ka tatti output
+/Test Invoices Folder
 *.npy
 /Test Invoices
 /Image Files
