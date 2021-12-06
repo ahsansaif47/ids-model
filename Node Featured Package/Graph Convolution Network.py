@@ -1,5 +1,6 @@
 import networkx as nx
 import numpy as np
+from __future__ import print_function
 import matplotlib.pyplot as plt
 from scipy.linalg import fractional_matrix_power
 
