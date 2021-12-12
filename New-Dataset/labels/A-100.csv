@@ -1,0 +1,119 @@
+Unnamed: 0,xmin,ymin,xmax,ymax,Object,labels
+0,160,97,770,165,INVOICE,invoice details
+1,1658,132,1769,149,Invoice,invoice details
+2,1781,133,1809,149,#:,invoice details
+3,1826,132,1907,149,1001,invoice details
+4,1570,161,1653,177,Date:,invoice details
+5,1667,161,1780,181,August,invoice details
+6,1793,161,1819,179,"9,",invoice details
+7,1834,161,1913,177,2012,invoice details
+9,1743,274,1912,289,Hloom.com,shipping address
+10,1624,303,1693,318,1912,shipping address
+11,1704,303,1830,321,Wayside,shipping address
+12,1844,303,1914,318,Lane,shipping address
+13,1537,331,1593,346,San,shipping address
+14,1607,331,1755,348,"Francisco,",shipping address
+15,1769,331,1813,346,CA,shipping address
+16,1824,331,1914,346,94108,shipping address
+17,1683,359,1756,378,-415,shipping address
+18,1770,359,1821,374,123,shipping address
+19,1833,359,1868,374,45,shipping address
+20,1880,359,1914,374,67,shipping address
+21,1628,387,1912,404,hloom@hloom.com,shipping address
+24,936,472,1102,486,SERVICES,
+25,131,524,333,551,DECRIPTION,description
+26,1265,524,1382,551,HOURS,quantity
+27,1520,528,1607,542,RATE,product price
+28,1731,528,1875,543,AMOUNT,product net
+29,131,556,200,571,Rear,description
+30,212,556,326,575,Bumper,description
+31,338,556,450,575,painting,description
+32,1390,557,1433,571,2.5,quantity
+33,1639,557,1674,571,20,product price
+34,1815,556,1914,573,$50.00 ,product net
+35,131,585,200,599,Rear,description
+36,212,585,315,599,Fender,description
+37,326,585,438,603,painting,description
+38,1417,585,1433,599,3,quantity
+39,1639,585,1674,599,30,product price
+40,1815,584,1914,601,$90.00 ,product net
+41,131,613,211,628,Panel,description
+42,225,613,333,631,Realign,description
+43,1417,613,1433,627,3,quantity
+44,1639,613,1674,627,20,product price
+45,1815,612,1914,629,$60.00 ,product net
+46,131,641,198,656,Dent,description
+47,211,641,329,659,"Repairs,",description
+48,343,641,407,656,Coin,description
+49,420,641,481,656,Size,description
+50,1420,641,1428,655,1,quantity
+51,1639,641,1674,656,60,product price
+52,1815,640,1914,658,$60.00 ,product net
+53,131,669,198,684,Dent,description
+54,211,669,329,688,"Repairs,",description
+55,344,669,383,688,Up,description
+56,393,670,419,684,to,description
+57,431,669,469,683,A4,description
+58,481,669,542,684,Size,description
+59,1420,669,1428,683,1,quantity
+60,1639,669,1674,684,30,product price
+61,1815,668,1914,686,$30.00 ,product net
+62,1833,696,1914,714,$0.00 ,product net
+63,1833,725,1914,742,$0.00 ,product net
+64,1833,753,1914,770,$0.00 ,product net
+65,1494,801,1672,843,SUBTOTAL,billing info
+66,1796,809,1914,827,$290.00 ,billing info
+67,1510,838,1575,852,TAX,billing info
+68,1587,838,1674,852,RATE,billing info
+69,1822,838,1914,853,7.00%,billing info
+70,1505,866,1605,881,TOTAL,billing info
+71,1613,867,1674,880,TAX,billing info
+72,1813,864,1914,883,$20.30 ,billing info
+73,1559,890,1673,918,OTHER,billing info
+74,1863,894,1914,909,100,billing info
+75,1564,922,1674,937,TOTAL,billing info
+76,131,979,229,994,Please,note
+77,240,980,346,994,contact,note
+78,358,979,462,997,[Name],note
+79,475,980,500,994,at,note
+80,512,979,614,997,[Phone,note
+81,625,979,650,997,#],note
+82,662,979,718,994,with,note
+83,730,983,782,997,any,note
+84,792,979,932,997,questions,note
+85,945,979,1081,997,regarding,note
+86,1093,979,1143,994,this,note
+87,1156,979,1255,994,invoice,note
+88,131,1035,232,1050,Invoice,invoice details
+89,243,1036,268,1050,#:,invoice details
+90,283,1035,356,1050,100.1,invoice details
+91,131,1063,206,1078,Date:,shipping address
+92,218,1063,320,1082,August,invoice details
+93,331,1063,355,1080,"9,",invoice details
+94,130,1091,273,1106,Customer,invoice details
+95,286,1091,323,1106,ID:,invoice details
+96,336,1092,426,1106,57922,invoice details
+97,131,1120,170,1134,Bill,invoice details
+98,182,1120,228,1134,To:,invoice details
+99,240,1120,351,1134,Andrew,invoice details
+100,362,1120,393,1134,G.,invoice details
+101,407,1120,503,1134,Garcia,invoice details
+102,130,1148,250,1163,Contact:,invoice details
+103,263,1148,533,1166,agg@website.com,invoice details
+105,274,1470,443,1485,Hloom.com,issuer address
+106,461,1470,464,1489,|,issuer address
+107,482,1471,553,1485,1912,issuer address
+108,564,1470,689,1489,Wayside,issuer address
+109,702,1471,768,1485,Lane,issuer address
+110,786,1470,789,1489,|,issuer address
+111,806,1471,855,1485,San,issuer address
+112,869,1471,1014,1488,"Francisco,",issuer address
+113,1026,1471,1065,1485,CA,issuer address
+114,1075,1471,1167,1485,94108,issuer address
+115,1183,1470,1186,1489,|,issuer address
+116,1204,1470,1279,1488,-415,issuer address
+117,1293,1471,1344,1485,123,issuer address
+118,1355,1471,1389,1485,45,issuer address
+119,1402,1471,1436,1485,67,issuer address
+120,1454,1470,1457,1489,|,issuer address
+121,1474,1470,1769,1487,hloom@hloom.com,issuer address

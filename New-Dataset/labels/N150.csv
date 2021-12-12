@@ -1,0 +1,101 @@
+,xmin,ymin,xmax,ymax,Object,labels
+0,447,182,537,224,Ali,issuer address
+1,564,186,672,217,and,issuer address
+2,701,186,785,217,Co,issuer address
+3,1358,196,1470,211,Invoice,invoice details
+4,1483,196,1532,211,No.,invoice details
+5,1752,198,1823,211,3265,invoice details
+6,465,228,582,245,Saddar,issuer address
+7,467,254,650,274,"Rawalpindi,",issuer address
+8,667,254,803,270,Pakistan,issuer address
+9,827,254,927,270,42000,issuer address
+24,1483,302,1732,329,INVOICE,invoice details
+25,1771,311,1832,320,=,invoice details
+26,308,348,462,363,Customer,shipping address
+27,222,374,308,388,Name,shipping address
+28,389,374,474,388,Aksar,shipping address
+29,484,374,680,392,Technologies,shipping address
+30,220,393,340,422,Address,shipping address
+31,390,397,452,412,STP,shipping address
+32,466,398,615,412,Islamabad,shipping address
+33,210,417,276,444,City,shipping address
+34,392,422,541,436,Islamabad,shipping address
+35,759,421,834,436,State,shipping address
+36,851,422,948,436,Pakiste,shipping address
+37,971,422,1021,436,ZIP,shipping address
+38,1036,422,1126,436,44000,shipping address
+39,223,445,314,460,Phone,shipping address
+40,273,493,327,512,Qty,quantity
+41,756,489,935,516,Description,description
+42,1350,493,1411,508,Unit,product price
+43,1424,493,1502,508,Price,product price
+44,1633,493,1742,508,TOTAL,product net
+45,293,517,301,531,1,quantity
+46,389,517,458,532,Web,description
+47,471,517,570,536,Design,description
+48,582,517,615,531,All,description
+49,629,517,719,536,Pages,description
+50,1405,517,1521,534,$150.00 ,product price
+51,1695,517,1812,534,$150.00 ,product net
+52,293,541,301,555,1,quantity
+53,389,541,458,556,Web,description
+54,471,541,663,560,Development,description
+55,1405,541,1521,558,$222.00 ,product price
+56,1695,541,1812,558,$222.00 ,product net
+57,291,566,307,580,2,quantity
+58,389,565,447,584,App,description
+59,460,565,652,584,Development,description
+60,1377,565,1521,582,"$5,555.00 ",product price
+61,1649,565,1812,582,"$11,110.00 ",product net
+62,293,590,301,604,1,quantity
+63,390,589,477,604,Social,description
+64,491,589,578,604,Media,description
+65,590,589,732,608,Marketing,description
+66,1405,589,1521,606,$250.00 ,product price
+67,1695,589,1812,606,$250.00 ,product net
+68,291,614,307,628,2,quantity
+69,390,613,457,628,SEO,description
+70,1405,613,1521,630,$200.00 ,product price
+71,1695,613,1812,630,$400.00 ,product net
+72,291,637,307,651,4,quantity
+73,391,633,517,661,Hostings,description
+74,1405,636,1521,654,$150.00 ,product price
+75,1695,636,1812,654,$600.00 ,product net
+76,1384,921,1514,948,SubTotal,billing info
+77,1649,924,1812,942,"$12,732.00 ",billing info
+78,349,946,484,964,Payment,note
+79,497,946,603,960,Details,note
+80,1217,949,1342,967,Shipping,billing info
+81,1355,949,1374,963,&,billing info
+82,1388,949,1514,967,Handling,billing info
+83,1732,948,1812,965,$7.00 ,billing info
+84,335,972,367,990,?,note
+85,436,967,510,994,Cash,note
+86,1190,973,1279,987,Taxes,billing info
+87,1388,968,1462,995,State,billing info
+88,1695,972,1812,989,$636.60 ,billing info
+89,339,992,353,1018,?O,note
+90,436,997,529,1011,Check,note
+91,342,1016,357,1044,Oo,note
+92,436,1021,523,1035,Credit,note
+93,534,1021,603,1035,Card,note
+94,1405,1021,1515,1035,TOTAL,billing info
+95,1649,1020,1812,1038,"$13,375.60 ",billing info
+96,289,1053,374,1067,Name,note
+97,1253,1077,1338,1092,Office,note
+98,1352,1077,1407,1092,Use,note
+99,1419,1077,1485,1095,Only,note
+101,558,1101,664,1119,Expires,note
+105,1315,1193,1381,1220,Date,invoice details
+106,1548,1197,1688,1211,4/31/2021,invoice details
+107,1313,1220,1397,1235,Order,invoice details
+108,1410,1221,1456,1235,No.,invoice details
+109,1548,1221,1583,1235,25,invoice details
+110,1315,1245,1372,1263,Rep,invoice details
+111,1550,1245,1584,1259,Nil,invoice details
+112,1315,1268,1380,1283,FOB,invoice details
+113,1551,1269,1601,1283,IBD,invoice details
+116,732,1321,815,1336,Insert,note
+117,825,1321,950,1336,Farewell,note
+118,959,1321,1111,1336,Statement,note
+119,1120,1321,1190,1336,Here,note

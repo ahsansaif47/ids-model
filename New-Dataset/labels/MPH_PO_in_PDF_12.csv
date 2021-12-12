@@ -1,0 +1,152 @@
+Unnamed: 0,xmin,ymin,xmax,ymax,Object,labels
+0,77,77,201,102,MPH,issuer address
+1,226,78,270,108,@,issuer address
+2,303,69,512,107,D'Pulze,issuer address
+3,1525,74,1579,85,Date,invoice details
+4,1739,69,1888,95,15-08-2020,invoice details
+5,1739,98,1797,114,Page,invoice details
+6,1806,98,1818,110,3,invoice details
+7,1828,98,1854,110,of,invoice details
+8,1861,98,1873,110,3,invoice details
+20,73,120,149,132,"1.G-10,",issuer address
+21,158,120,227,131,Lower,issuer address
+22,234,120,314,131,Ground,issuer address
+23,323,120,380,130,Floor,issuer address
+24,803,120,839,131,Tot,issuer address
+25,847,120,918,132,"47594,",issuer address
+26,928,120,1003,131,Mukim,issuer address
+27,1013,120,1096,134,Dengkil,issuer address
+28,73,140,154,151,D'Pulze,issuer address
+29,163,140,271,154,Cyberjaya,issuer address
+30,280,140,381,154,Shopping,issuer address
+31,389,140,459,151,Centre,issuer address
+32,803,140,869,151,63000,issuer address
+33,877,140,960,154,"Sepang,",issuer address
+34,969,140,1068,154,Sclangor.,issuer address
+35,76,171,282,192,Purchase,invoice details
+36,298,171,425,192,Order,invoice details
+37,570,172,881,194,PO/150011266,invoice details
+38,85,215,124,226,To:,shipping address
+39,233,214,303,228,A.W.,shipping address
+40,314,215,421,228,FABER,shipping address
+41,431,214,556,228,CASTEL,shipping address
+42,234,239,306,251,9.JLN,shipping address
+43,315,239,364,251,TP2,shipping address
+44,1041,232,1120,244,Please,note
+45,1129,232,1208,244,advise,note
+46,1217,235,1261,247,any,note
+47,1271,232,1327,244,item,note
+48,1337,232,1412,244,which,note
+49,1420,236,1465,247,you,note
+50,1475,233,1560,244,cannot,note
+51,1569,232,1682,247,despatch,note
+52,233,249,299,273,TMN,shipping address
+53,307,261,546,273,PERINDUSTRIAN,shipping address
+54,555,261,625,273,SIME,shipping address
+55,634,261,690,273,UEP,shipping address
+56,1042,251,1211,263,inaccordance,note
+57,1220,251,1275,263,with,note
+58,1284,255,1328,263,our,note
+59,1337,251,1495,263,instructions.,note
+60,1908,250,1919,256,~,note
+69,233,283,307,295,47600,shipping address
+70,318,283,439,295,SUBANG,shipping address
+71,1104,284,1210,306,PYease,note
+72,1222,280,1334,315,supply,note
+73,1345,280,1484,315,?x-stock,note
+74,1496,280,1577,315,only:,note
+75,80,335,117,347,Tel,shipping address
+76,238,334,396,346,03-80246363,shipping address
+77,507,334,556,346,Fax:,shipping address
+78,575,334,734,346,03-80247886,shipping address
+79,988,359,1129,373,Delivery,invoice details
+80,1151,360,1218,370,Date,invoice details
+81,1245,362,1250,370,:,invoice details
+82,1297,358,1472,371,29/08/2020,invoice details
+83,80,399,194,410,REMARK,invoice details
+84,148,436,198,448,Item,
+85,209,436,270,448,Code,
+86,416,436,467,448,Item,description
+87,479,435,614,451,Description,description
+88,1142,435,1229,451,Imprint,
+89,1351,435,1421,448,Order,quantity
+90,1429,436,1472,451,Oty,quantity
+91,1526,435,1577,448,Unit,product price
+92,1585,436,1640,448,Cost,product price
+93,1739,435,1799,448,Total,product net
+94,1810,436,1864,448,Cost,product net
+95,80,472,107,484,65,
+96,147,472,204,484,1809,
+97,414,472,603,484,ADJUSTABLE,description
+98,612,472,708,484,TABLE,description
+99,717,472,773,484,TOP,description
+100,782,472,956,484,SHARPENER,description
+101,1140,468,1296,491,UNKNOWN,
+102,1470,472,1497,484,10,quantity
+103,1594,472,1659,484,22.74,product price
+104,1808,472,1890,484,227.4,product net
+105,80,504,108,516,66,
+106,147,500,234,523,182491,
+107,414,504,481,516,MINI,description
+108,491,504,601,516,SLEEVE,description
+109,610,504,724,516,ERASER,description
+110,1139,500,1297,523,UNKNOWN,
+111,1470,504,1497,516,10,quantity
+112,1610,504,1661,516,2.22,product price
+113,1825,504,1891,516,22.2,product net
+114,80,536,108,548,67,
+115,147,532,233,555,183701,
+116,414,536,494,548,GRED,description
+117,504,536,705,548,PEPERIKSAAN,description
+118,715,536,830,548,ERASER,description
+119,839,536,1013,548,SHARPENER,description
+120,1021,536,1055,548,PB,description
+121,1069,536,1077,548,1,description
+122,1141,532,1296,555,UNKNOWN,
+123,1468,536,1497,548,40,quantity
+124,1610,536,1661,548,2.46,product price
+125,1825,536,1891,548,98.4,product net
+126,80,568,108,580,68,
+127,147,564,235,587,185920,
+128,414,568,529,580,ERASER,description
+129,537,568,592,580,PEN,description
+130,601,568,723,580,HOLDER,description
+131,731,568,803,580,ASST,description
+132,812,568,851,580,BC,description
+133,860,571,875,580,+,description
+134,884,568,985,580,REFILL,description
+135,1139,564,1297,587,UNKNOWN,
+136,1470,568,1497,580,10,quantity
+137,1609,568,1661,580,4.56,product price
+138,1824,568,1891,580,45.6,product net
+139,80,600,108,612,69,
+140,147,599,235,612,187004,
+141,414,600,528,612,ERASER,description
+142,537,600,595,612,CAP,description
+143,603,600,623,612,X,description
+144,633,600,645,612,3,description
+145,655,600,712,612,FOC,description
+146,724,600,732,612,L,description
+147,1141,596,1296,619,UNKNOWN,
+148,1468,599,1497,612,30,quantity
+149,1613,600,1661,612,1.56,product price
+150,1824,600,1891,612,46.8,product net
+151,90,1203,194,1219,Prepared,billing info
+152,204,1203,238,1219,by:,billing info
+153,350,1199,438,1222,FARID,billing info
+154,1169,1203,1215,1215,E.&,billing info
+155,1224,1203,1276,1215,O.E.,billing info
+156,1339,1203,1384,1215,Sub,billing info
+157,1393,1203,1453,1215,Total,billing info
+158,1777,1203,1880,1218,"6,021.44",billing info
+159,1082,1236,1192,1251,Currency,billing info
+160,1295,1236,1336,1247,RM,billing info
+161,1403,1229,1465,1257,Total,billing info
+162,1777,1235,1880,1249,"6,021.44",billing info
+166,214,1379,311,1391,Ordered,note
+167,321,1379,349,1395,by,note
+168,790,1379,969,1395,Acknowledged,note
+169,980,1380,1012,1395,By,note
+170,1022,1379,1122,1395,Supplier,note
+171,1639,1379,1757,1395,Approved,note
+172,1768,1380,1800,1395,By,note

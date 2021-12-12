@@ -1,0 +1,108 @@
+Unnamed: 0,xmin,ymin,xmax,ymax,Object,labels
+0,140,110,235,124,From:,issuer address
+1,138,144,162,159,A,issuer address
+2,174,144,331,163,Company,issuer address
+3,140,167,242,183,Office,issuer address
+4,258,167,390,185,"59-B,4th",issuer address
+5,406,167,487,183,Floor,issuer address
+6,501,168,564,187,City,issuer address
+7,578,167,665,183,Plaza,issuer address
+8,141,192,177,206,8-Jan,issuer address
+9,192,191,317,206,Markaz,issuer address
+10,330,191,513,206,Islamabad.,issuer address
+11,527,192,636,209,"44000,",issuer address
+12,141,215,287,230,Pakistan,issuer address
+14,140,265,605,283,acompany@acompany.com,issuer address
+17,138,367,191,381,To:,shipping address
+18,139,403,250,422,Syslab,shipping address
+19,263,403,489,422,Technologies,shipping address
+20,504,403,566,418,Sdn,shipping address
+21,581,403,642,418,Bhd,shipping address
+22,1293,401,1414,416,Invoice,invoice details
+23,1426,402,1457,416,#:,invoice details
+24,1602,401,1641,416,32,invoice details
+25,140,427,189,442,4-Mar,shipping address
+26,203,427,221,441,B,shipping address
+27,237,426,394,442,Incubator,shipping address
+28,408,427,433,444,"3,",shipping address
+29,445,426,640,446,Technology,shipping address
+30,1293,425,1369,440,Date,invoice details
+31,1381,424,1414,440,of,invoice details
+32,1428,425,1526,440,Issue:,invoice details
+33,1604,425,1641,440,Fri,invoice details
+34,1659,425,1728,444,May,invoice details
+35,1741,425,1779,440,14,invoice details
+36,1792,425,1865,440,2021,invoice details
+37,141,450,215,465,Park,shipping address
+38,230,450,314,465,Bukit,shipping address
+39,328,450,450,468,"Jalil,K",shipping address
+40,464,450,624,465,ualaLu,shipping address
+41,1293,449,1355,464,Due,invoice details
+42,1369,449,1454,464,Date:,invoice details
+43,1602,449,1656,464,Sat,invoice details
+44,1672,449,1741,468,May,invoice details
+45,1755,449,1792,464,15,invoice details
+46,1805,449,1879,464,2021,invoice details
+47,140,478,264,493,"mpur,",shipping address
+48,278,474,624,493,57000Malaysia,shipping address
+49,1293,468,1437,496,Balance:,invoice details
+50,1604,473,1740,490,"1,203.10",invoice details
+51,141,493,290,521,Malaysia,shipping address
+52,1292,492,1454,520,Currency:,invoice details
+53,1604,496,1753,515,Malaysia,invoice details
+54,1769,496,1883,515,Ringgit,invoice details
+55,140,521,430,541,info@syslab.com,shipping address
+56,140,612,415,639,Product/Service,description
+57,629,612,821,639,Description,description
+58,1105,612,1203,639,Price,product price
+59,1334,617,1406,634,QTY,quantity
+60,1479,612,1626,638,Discount,
+61,1670,616,1756,631,Total,product net
+62,141,676,270,703,Hosting,description
+63,629,676,759,703,Hosting,description
+64,1117,681,1176,695,200,product price
+65,1335,681,1346,695,1,quantity
+66,1478,680,1516,695,20,
+67,1530,680,1554,695,%,
+68,1672,681,1781,695,160,product net
+69,139,746,206,761,SEO,description
+70,628,746,695,761,SEO,description
+71,711,746,854,761,Services,description
+72,1118,746,1176,761,150,product price
+73,1334,746,1352,761,2,quantity
+74,1671,746,1781,761,300,product net
+75,139,811,212,827,Web,description
+76,227,811,445,830,Development,description
+77,628,811,766,827,Website,description
+78,781,811,999,830,Development,description
+79,1117,812,1176,827,250,product price
+80,1334,812,1351,827,3,quantity
+81,1480,812,1554,826,10%,
+82,1672,812,1781,827,675,product net
+83,989,926,1130,953,Subtotal,billing info
+84,1401,932,1550,951,Malaysia,billing info
+85,1566,932,1680,951,Ringgit,billing info
+86,1697,932,1833,949,"1,250.00",billing info
+87,990,952,1138,979,Discount,billing info
+88,1428,957,1578,976,Malaysia,billing info
+89,1593,958,1708,976,Ringgit,billing info
+90,1724,958,1833,972,115,billing info
+91,989,981,1059,996,SST,billing info
+92,1072,981,1118,996,6%,billing info
+93,990,1026,1134,1042,Balance:,billing info
+94,1449,983,1598,1002,Malaysia,billing info
+95,1614,983,1729,1002,Ringgit,billing info
+96,1744,983,1833,998,68.1,billing info
+97,1401,1028,1550,1048,Malaysia,billing info
+98,1566,1029,1680,1047,Ringgit,billing info
+99,1697,1029,1833,1046,"1,203.10",billing info
+101,550,1451,613,1465,This,note
+102,624,1451,728,1465,invoice,note
+103,736,1455,796,1465,was,note
+104,805,1451,952,1469,generated,note
+105,963,1451,1024,1465,with,note
+106,1034,1451,1082,1465,the,note
+107,1091,1452,1143,1465,Wix,note
+108,1154,1452,1217,1465,Free,note
+109,1227,1451,1334,1465,Invoice,note
+110,1343,1451,1495,1465,Generator.,note

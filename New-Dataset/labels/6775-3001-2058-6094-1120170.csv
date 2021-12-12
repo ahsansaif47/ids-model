@@ -1,0 +1,84 @@
+Unnamed: 0,xmin,ymin,xmax,ymax,Object,labels
+0,301,141,585,196,Google,invoice details
+1,303,212,405,229,Google,issuer address
+2,415,212,476,226,Asia,issuer address
+3,490,212,583,226,Pacific,issuer address
+4,595,212,648,226,Pte.,issuer address
+5,662,212,711,226,Ltd.,issuer address
+6,303,238,336,252,7O,issuer address
+7,349,238,421,252,Pasir,issuer address
+8,432,238,547,256,Panjang,issuer address
+9,561,238,634,252,Road,issuer address
+10,302,264,409,280,"#03-71,",issuer address
+11,423,264,564,281,Mapletree,issuer address
+12,577,264,706,278,Business,issuer address
+13,303,290,357,308,City,issuer address
+14,303,316,448,334,Singapore,issuer address
+15,462,316,559,330,117371,issuer address
+16,302,350,354,364,Tax,invoice details
+17,366,350,564,364,Identification,invoice details
+18,578,350,699,364,Number,invoice details
+19,302,376,487,390,200817984R,invoice details
+20,304,402,349,416,Bill,shipping address
+21,361,402,406,416,To:,shipping address
+22,303,428,398,446,Syslab,shipping address
+23,408,429,597,446,Technologies,shipping address
+24,609,428,663,442,Sdn,shipping address
+25,677,429,730,442,Bhd,shipping address
+26,304,455,438,468,NADEEM,shipping address
+27,452,455,592,469,HUSSAIN,shipping address
+28,303,481,368,495,3-4B,shipping address
+29,382,481,515,495,Incubator,shipping address
+30,525,481,548,497,"3,",shipping address
+31,561,481,724,498,Technology,shipping address
+32,304,507,368,521,Park,shipping address
+33,379,507,504,525,Malaysia,shipping address
+34,304,533,373,547,Bukit,shipping address
+35,384,533,436,547,Jalil,shipping address
+36,303,559,390,573,57000,shipping address
+37,403,559,482,573,Kuala,shipping address
+38,495,560,604,577,Lumpur,shipping address
+39,304,585,407,599,KUALA,shipping address
+40,419,585,554,599,LUMPUR,shipping address
+41,304,612,428,629,Malaysia,shipping address
+43,1246,219,1348,237,Google,invoice details
+44,1359,220,1491,233,AdWords,invoice details
+45,746,155,919,179,Monthly,invoice details
+46,973,155,1157,179,invoice,invoice details
+47,746,184,827,203,Nov,invoice details
+48,844,184,875,207,"1,",invoice details
+49,892,184,989,202,2017,invoice details
+50,1006,194,1019,197,-,invoice details
+51,1035,184,1116,203,Nov,invoice details
+52,1131,184,1188,207,"30,",invoice details
+53,1206,184,1303,203,2017,invoice details
+54,744,219,875,233,Services,invoice details
+55,745,253,840,271,Billing,invoice details
+56,853,253,882,267,ID,invoice details
+57,744,286,853,304,Google,invoice details
+58,864,287,1007,300,AdWords,invoice details
+59,1019,287,1048,300,ID,invoice details
+60,745,320,854,334,Invoice,invoice details
+61,866,320,987,334,Number,invoice details
+62,745,354,854,368,Invoice,invoice details
+63,866,354,933,367,Date,invoice details
+64,1246,253,1483,267,0724-8284-3023,invoice details
+65,1246,287,1446,300,819-637-6714,invoice details
+66,1246,320,1684,334,6775-3001-2058-6094-112017,invoice details
+67,1247,354,1302,367,Nov,invoice details
+68,1313,354,1354,370,"30,",invoice details
+69,1367,354,1437,368,2017,invoice details
+70,781,658,897,673,Record,
+71,911,658,944,673,of,
+72,955,658,1115,677,payments,
+73,1128,658,1266,673,received,
+74,1060,722,1129,736,247,description
+76,817,775,933,790,Record,
+77,947,775,979,790,of,
+78,990,775,1084,790,Costs,
+79,1097,775,1156,790,and,
+80,1168,775,1232,790,VAT,
+82,399,805,466,833,Date,
+84,794,809,969,827,Description,
+85,1300,809,1370,823,Cost,
+87,1570,809,1643,823,Total,

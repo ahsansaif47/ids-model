@@ -1,0 +1,116 @@
+Unnamed: 0,xmin,ymin,xmax,ymax,Object,labels
+0,330,194,824,239,exabytes?,invoice details
+1,505,243,780,257,network,invoice details
+2,156,387,244,407,Tax,invoice details
+3,262,387,435,407,Invoice,invoice details
+4,451,387,943,408,#MY-PAID-80462726,invoice details
+5,158,426,296,440,Proforma,invoice details
+6,310,426,415,440,Invoice,invoice details
+7,428,426,505,440,Date:,invoice details
+8,521,426,688,440,13/10/2017,invoice details
+9,158,457,217,471,Due,invoice details
+10,231,457,309,471,Date:,invoice details
+11,321,457,491,471,26/11/2017,invoice details
+12,158,536,293,550,Invoiced,shipping address
+13,306,536,346,550,To,shipping address
+14,157,558,258,574,SysLab,shipping address
+15,268,558,451,574,Technologies,shipping address
+16,462,558,523,570,SDN,shipping address
+17,537,558,598,570,BHD,shipping address
+18,156,579,244,591,ATTN:,shipping address
+19,256,579,315,591,Dani,shipping address
+20,328,579,436,591,Hussain,shipping address
+21,156,600,220,612,3-4B,shipping address
+22,233,600,359,612,Incubator,shipping address
+23,369,600,391,614,"3,",shipping address
+24,402,600,465,612,TPM,shipping address
+25,158,620,224,632,Bukit,shipping address
+26,234,620,285,632,Jalil,shipping address
+27,158,641,235,653,Kuala,shipping address
+28,246,641,355,656,"Lumpur,",shipping address
+29,367,641,474,656,Wilayah,shipping address
+30,487,641,664,655,"Persekutuan,",shipping address
+31,677,641,760,653,57000,shipping address
+32,158,662,277,677,Malaysia,shipping address
+33,761,739,927,755,Description,description
+34,159,769,261,781,Domain,description
+35,274,769,390,781,Renewal,description
+36,402,776,410,777,-,description
+37,421,769,715,785,silverbull-lion.com.my,description
+38,726,776,733,777,-,description
+39,746,769,754,781,1,description
+40,770,769,857,781,Year/s,description
+41,869,769,1031,784,(26/11/2017,description
+42,1042,776,1050,777,-,description
+44,1351,223,1530,246,Exabytes,issuer address
+45,1547,223,1707,241,Network,issuer address
+46,1722,223,1796,241,Sdn,issuer address
+47,1816,223,1889,241,Bhd,issuer address
+48,1381,251,1474,265,"1-18-8,",issuer address
+49,1487,251,1596,263,Suntech,issuer address
+50,1608,251,1637,265,@,issuer address
+51,1650,251,1752,267,Penang,issuer address
+52,1764,251,1891,267,Cybercity,issuer address
+53,1560,271,1657,287,Lintang,issuer address
+54,1670,271,1776,287,Mayang,issuer address
+55,1790,271,1857,284,Pasir,issuer address
+56,1867,272,1889,286,"3,",issuer address
+57,1366,292,1448,305,11950,issuer address
+58,1460,292,1544,308,Bayan,issuer address
+59,1557,292,1626,307,"Baru,",issuer address
+60,1640,292,1750,308,"Penang,",issuer address
+61,1763,292,1889,308,Malaysia.,issuer address
+62,1557,334,1619,346,GST,issuer address
+63,1631,334,1674,346,No.,issuer address
+64,1686,334,1891,346,1452367872,issuer address
+66,175,994,203,1004,All,note
+67,214,994,297,1005,invoice,note
+68,307,994,356,1008,paid,note
+69,366,994,420,1005,after,note
+70,429,994,589,1008,1-Apr-15,note
+71,599,996,636,1005,are,note
+72,646,994,732,1008,subject,note
+73,741,995,762,1005,to,note
+74,772,994,810,1005,6%,note
+75,820,993,933,1005,GST-.This,note
+76,944,996,961,1005,is,note
+77,971,996,984,1005,a,note
+78,993,995,1107,1008,computer,note
+79,1116,994,1237,1008,generated,note
+80,1248,994,1331,1005,invoice,note
+81,1341,994,1384,1005,and,note
+82,1395,994,1491,1008,requires,note
+83,1502,996,1530,1005,no,note
+84,1540,994,1657,1008,signature.,note
+85,156,1020,411,1037,Transactions,
+86,238,1078,411,1090,Transaction,
+87,424,1078,488,1090,Date,
+88,739,1077,864,1093,Gateway,
+89,287,1107,440,1120,25/10/2017,
+90,705,1107,755,1123,Pay,
+91,766,1107,796,1123,by,
+92,808,1107,898,1123,Paypal,
+93,1683,739,1755,752,Total,product net
+94,1061,769,1223,785,25/11/2018),description
+95,1660,769,1781,781,RM80.00,product net
+96,1392,819,1448,832,Sub,billing info
+97,1458,819,1530,832,Total,billing info
+98,1660,819,1782,832,RM80.00,billing info
+99,1373,849,1459,861,6.00%,billing info
+100,1469,849,1532,861,GST,billing info
+101,1668,849,1773,861,RM4.80,billing info
+102,1430,874,1531,900,Credit,billing info
+103,1668,878,1773,891,RMO.00,billing info
+104,1458,904,1530,929,Total,billing info
+105,1660,908,1782,921,RMs4.80,billing info
+106,1175,1078,1349,1090,Transaction,
+107,1361,1078,1389,1090,ID,
+108,1663,1078,1779,1090,Amount,
+109,1134,1107,1432,1120,12H8472277976650H,
+110,1661,1107,1782,1120,RM8s4.80,
+111,1417,1133,1532,1158,Balance,
+112,1669,1137,1774,1149,RmMo.0O,
+113,838,1217,890,1228,PDF,note
+114,899,1217,1027,1228,Generated,note
+115,1037,1220,1065,1228,on,note
+116,1075,1217,1211,1228,25/10/2017,note

@@ -1,0 +1,49 @@
+Unnamed: 0,xmin,ymin,xmax,ymax,Object,labels
+0,866,30,1357,80,INVOICE,invoice details
+1,1408,31,1769,93,Kroger,invoice details
+2,137,148,187,162,Old,shipping address
+3,201,148,310,165,"Byland,",shipping address
+4,326,148,392,162,Park,shipping address
+5,405,148,622,165,"Croydon"",CRO",shipping address
+6,635,148,702,162,8RQ,shipping address
+7,1065,148,1202,162,INVOICE,invoice details
+8,1213,148,1232,162,#,invoice details
+9,1273,147,1377,160,140291,invoice details
+10,146,106,243,119,Fraser,shipping address
+11,255,106,377,123,Burgess,shipping address
+12,1065,194,1202,207,INVOICE,invoice details
+13,1216,194,1303,207,DATE,invoice details
+14,1355,194,1518,207,31/05/2021,invoice details
+15,136,245,210,258,Piers,issuer address
+16,223,245,309,258,Owen,issuer address
+17,1396,238,1532,271,$271 ,invoice details
+18,137,271,227,286,Kroger,issuer address
+19,126,323,363,339,"Caterham"",CR3",issuer address
+20,377,323,455,337,Road,issuer address
+21,468,323,604,337,Guildford,issuer address
+22,617,323,743,340,Croydon,issuer address
+24,137,567,366,593,DESCRIPTION,description
+25,1090,571,1166,584,UNIT,product price
+26,1179,571,1280,584,PRICE,product price
+27,1424,571,1492,585,QTY,quantity
+28,1768,571,1915,584,AMOUNT,product net
+29,136,607,204,620,Bran,description
+30,217,607,343,620,Oatmeal,description
+31,358,607,449,620,Raisin,description
+32,1219,607,1280,620,1.87,product price
+33,1433,607,1442,620,1,quantity
+34,1815,607,1876,620,1.87,product net
+35,136,644,265,661,Masonry,description
+36,277,644,429,657,Chocolate,description
+37,441,644,563,657,Cookies,description
+38,1217,644,1280,657,7-O7,product price
+39,1431,644,1466,657,36,quantity
+40,1812,644,1915,657,254.52,product net
+41,1313,728,1491,754,SUBTOTAL,billing info
+42,1812,732,1915,745,256.39,billing info
+43,1282,774,1348,787,Sale,billing info
+44,1359,775,1403,787,tax,billing info
+45,1416,774,1490,788,6.00%,billing info
+46,1854,774,1934,787,15.38,billing info
+47,1360,907,1491,923,TOTAL,billing info
+48,1769,906,1916,925,$271.77 ,billing info

@@ -1,0 +1,179 @@
+Unnamed: 0,xmin,ymin,xmax,ymax,Object,labels
+0,120,142,190,176,Mi,invoice details
+1,189,142,267,176,46,invoice details
+2,272,146,422,172,ft,invoice details
+3,383,142,576,176,"""p=,",invoice details
+4,925,149,1123,237,INVOICE,invoice details
+5,1446,164,1576,213,=,invoice details
+6,1599,153,1865,213,Por,invoice details
+7,76,241,223,253,MALAYSIA,shipping address
+8,234,241,345,253,DIGITAL,shipping address
+9,356,241,501,253,ECONOMY,shipping address
+10,510,241,722,253,CORPORATION,shipping address
+11,732,241,790,253,SDN,shipping address
+12,802,241,860,253,BHD,shipping address
+13,870,241,1012,256,(389346-D),shipping address
+14,75,261,167,276,eXpats,shipping address
+15,177,260,277,273,Service,shipping address
+16,287,260,375,273,Centre,shipping address
+28,76,280,138,292,Suite,shipping address
+29,148,280,192,294,"2.1,",shipping address
+30,205,280,269,292,Level,shipping address
+31,280,280,300,294,"2,",shipping address
+32,313,280,367,292,East,shipping address
+33,377,280,447,295,"Wing,",shipping address
+34,1477,270,1531,283,SST,invoice details
+35,1541,270,1581,283,NO,invoice details
+36,1666,274,1670,282,2,invoice details
+37,1695,271,1962,283,W24-1809-32000024,invoice details
+38,75,300,136,311,3539,shipping address
+39,148,299,223,311,Mercu,shipping address
+40,235,299,297,312,MQA,shipping address
+41,308,299,418,315,(formerly,shipping address
+42,428,299,507,311,known,shipping address
+43,518,302,546,311,as,shipping address
+44,556,299,608,311,Axis,shipping address
+45,620,299,723,315,"Eureka),",shipping address
+46,1477,296,1592,308,INVOICE,invoice details
+47,1603,296,1643,308,NO,invoice details
+48,1666,300,1670,308,-,invoice details
+49,1695,296,1873,309,00578633-HQ,invoice details
+50,75,319,140,331,Jalan,shipping address
+51,151,319,277,331,Teknokrat,shipping address
+52,287,319,307,333,"7,",shipping address
+53,318,319,395,331,63000,shipping address
+54,406,319,539,334,"Cyberjaya,",shipping address
+55,1478,309,1552,341,DATE,invoice details
+56,1666,325,1670,334,:,invoice details
+57,1695,322,1721,334,31,invoice details
+58,1735,322,1791,337,July,invoice details
+59,1801,322,1862,334,2019,invoice details
+60,76,338,194,353,"Selangor,",shipping address
+61,206,338,317,353,Malaysia,shipping address
+62,1666,351,1670,353,:,shipping address
+63,75,358,112,370,Tel,shipping address
+64,125,361,128,369,:,shipping address
+65,139,358,241,370,15-Mar,shipping address
+66,251,358,400,370,3106/3157,shipping address
+67,1478,344,1601,367,REPRINT,invoice details
+68,1666,357,1670,359,:,invoice details
+69,1695,348,1725,360,OS,invoice details
+70,1736,348,1874,360,November,invoice details
+71,1883,348,1944,360,2020,invoice details
+72,77,377,128,389,Fax:,shipping address
+73,139,377,241,389,15-Mar,shipping address
+74,251,377,313,389,3008,shipping address
+75,111,422,225,434,Received,issuer address
+76,237,422,307,434,From:,issuer address
+77,109,447,222,459,SYSLAB,issuer address
+78,232,447,459,459,TECHNOLOGIES,issuer address
+79,469,447,534,459,SDN.,issuer address
+80,547,447,612,459,BHD.,issuer address
+81,623,447,768,462,(N-S00133),issuer address
+82,110,467,147,479,Lot,issuer address
+83,158,467,198,479,No.,issuer address
+84,209,467,318,481,"3A-2A-2,",issuer address
+85,330,467,363,479,3A,issuer address
+86,374,467,436,479,Floor,issuer address
+87,109,486,187,498,Tower,issuer address
+88,196,487,210,498,2,issuer address
+89,220,486,246,500,@,issuer address
+90,258,486,339,500,"PFCC,",issuer address
+91,350,486,416,498,Jalan,issuer address
+92,428,486,499,498,Puteri,issuer address
+93,511,486,554,500,"1/2,",issuer address
+94,110,506,200,518,Bandar,issuer address
+95,211,506,288,520,"Puteri,",issuer address
+96,301,506,409,521,Puchong,issuer address
+97,109,525,222,540,Selangor,issuer address
+98,109,551,199,563,TEL:03,issuer address
+99,209,551,270,563,8600,issuer address
+100,281,551,342,563,7156,issuer address
+101,111,576,170,588,FAX:,issuer address
+102,112,642,302,654,APPLICATION,
+103,314,642,415,654,DETAIL,
+104,118,673,158,685,NO,
+105,207,673,282,685,APPL,
+106,292,673,332,685,NO,
+107,497,673,577,685,NAME,
+108,756,673,829,685,APPL,
+109,839,673,912,685,TYPE,
+110,1023,673,1097,685,APPL,
+111,1108,673,1165,685,FOR,
+112,1228,673,1374,685,DURATION,
+113,1370,663,1392,695,|,
+114,1396,673,1551,685,PASSPORT,
+115,1569,673,1758,685,[NATIONALITY|,
+116,1789,673,1912,685,AMOUNT,product net
+117,1453,692,1493,704,NO,
+118,1820,692,1881,709,(RM),product net
+119,133,715,140,726,1,
+120,171,715,364,727,210361-772691,
+121,415,714,564,727,MEHMOOD,
+122,575,714,658,727,YASIR,
+123,713,710,956,734,EP:-EMPLOYMENT,
+124,993,715,1048,727,New,
+125,1057,715,1194,730,Application,
+126,1286,715,1316,726,24,
+127,1396,714,1550,727,MG0153292,
+128,1608,711,1719,734,Pakistani,
+129,1824,715,1932,729,"2,000.00",product net
+130,798,734,871,746,PASS,
+131,1591,756,1744,769,SUBTOTAL,billing info
+132,1823,757,1932,771,"2,000.00",billing info
+133,1519,779,1618,791,Service,billing info
+134,1628,779,1675,791,Tax,billing info
+135,1685,779,1743,796,-6%,billing info
+136,1848,779,1932,791,120,billing info
+137,1517,802,1611,814,TOTAL,billing info
+138,1620,802,1744,814,AMOUNT,billing info
+139,1823,802,1932,816,"2,120.00",billing info
+140,113,842,250,853,PAYMENT,
+141,260,841,388,854,DETAILS:,
+142,180,872,301,884,METHOD,
+143,311,872,349,884,OF,
+144,359,872,497,884,PAYMENT,
+145,634,872,714,884,BANK,
+146,724,872,805,884,NAME,
+147,1043,862,1166,894,NUMBER,
+148,1435,862,1509,894,DATE,
+149,1674,872,1798,884,AMOUNT,
+150,1808,872,1869,889,(RM),
+151,242,895,346,907,CREDIT,
+152,356,895,434,907,CARD,
+153,939,895,1269,907,MDX00000000000136239,
+154,1401,895,1542,907,31/07/2019,
+155,1824,895,1932,909,"2,120.00",
+158,104,930,229,945,Malaysian,note
+159,241,930,334,945,Ringgit:,note
+160,344,930,409,942,TWO,note
+161,419,930,577,942,THOUSAND,note
+162,587,930,647,942,ONE,note
+163,659,930,798,942,HUNDRED,note
+164,807,930,927,942,TWENTY,note
+165,937,930,1013,942,ONLY,note
+168,71,988,155,1000,Please,note
+169,166,988,230,1000,Note:,note
+170,69,1007,121,1019,This,note
+171,132,1007,215,1022,receipt,note
+172,226,1007,244,1019,is,note
+173,254,1008,372,1022,computer,note
+174,381,1007,507,1022,generated,note
+175,518,1007,562,1019,and,note
+176,574,1010,602,1019,no,note
+177,613,1007,728,1022,signature,note
+178,739,1007,757,1019,is,note
+179,768,1007,876,1022,required.,note
+180,69,1027,121,1039,This,note
+181,132,1028,215,1042,receipt,note
+182,226,1030,243,1039,is,note
+183,254,1027,304,1042,only,note
+184,314,1027,370,1039,valid,note
+185,381,1027,470,1042,subject,note
+186,479,1028,501,1039,to,note
+187,512,1027,571,1039,bank,note
+188,581,1027,703,1039,clearance,note
+189,713,1027,735,1039,of,note
+190,744,1027,782,1039,the,note
+191,793,1028,900,1042,payment,note
+192,910,1027,985,1039,made.,note

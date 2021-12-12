@@ -1,0 +1,117 @@
+Unnamed: 0,xmin,ymin,xmax,ymax,Object,labels
+0,199,160,312,228,S,invoice details
+1,337,170,825,214,exabytes?,invoice details
+2,362,291,466,305,Manage,invoice details
+3,473,291,534,302,Your,invoice details
+4,541,290,650,302,Services,invoice details
+5,657,290,699,302,Via,invoice details
+6,710,290,827,305,Exabytes,invoice details
+7,834,291,888,305,App,invoice details
+9,156,387,244,407,Tax,invoice details
+10,262,387,435,407,Invoice,invoice details
+11,451,387,943,408,#MY-PAID-80569999,invoice details
+12,159,426,264,440,Invoice,invoice details
+13,277,426,354,440,Date:,invoice details
+14,368,426,537,440,7/4/2019,invoice details
+15,158,457,217,471,Due,invoice details
+16,231,457,309,471,Date:,invoice details
+17,323,457,491,471,14/04/2019,invoice details
+18,158,536,293,550,Invoiced,shipping address
+19,306,536,346,550,To,shipping address
+20,157,558,258,574,SysLab,shipping address
+21,268,558,451,574,Technologies,shipping address
+22,462,558,523,570,SDN,shipping address
+23,537,558,598,570,BHD,shipping address
+24,156,579,244,591,ATTN:,shipping address
+25,256,579,315,591,Dani,shipping address
+26,328,579,436,591,Hussain,shipping address
+27,157,600,220,612,3-4B,shipping address
+28,233,600,359,612,Incubator,shipping address
+29,369,600,391,614,"3,",shipping address
+30,402,600,465,612,TPM,shipping address
+31,158,620,224,632,Bukit,shipping address
+32,234,620,285,632,Jalil,shipping address
+33,158,641,235,653,Kuala,shipping address
+34,246,641,355,656,"Lumpur,",shipping address
+35,367,641,474,656,Wilayah,shipping address
+36,487,641,664,655,"Persekutuan,",shipping address
+37,677,641,760,653,57000,shipping address
+38,158,662,277,677,Malaysia,shipping address
+39,761,739,927,755,Description,description
+40,159,769,261,781,Domain,description
+41,274,769,390,781,Renewal,description
+42,402,776,410,777,-,description
+43,422,769,668,785,mydesign.com.my,description
+44,679,776,687,777,-,description
+45,700,769,707,781,1,description
+46,723,769,811,781,Year/s,description
+47,823,769,984,785,(30/04/2019,description
+48,996,776,1003,777,-,description
+49,1014,769,1176,785,29/04/2020),description
+50,159,819,261,832,Domain,description
+51,274,819,390,832,Renewal,description
+52,402,826,410,827,-,description
+53,421,819,635,835,altitude.com.my,description
+54,646,826,654,827,-,description
+55,667,819,675,831,1,description
+56,690,819,778,832,Year/s,description
+57,790,819,952,835,(02/05/2019,description
+58,963,826,971,827,-,description
+59,982,819,1143,835,01/05/2020),description
+60,156,1039,411,1056,Transactions,
+61,1352,0,2048,261,     ,
+62,1326,223,1505,246,Exabytes,issuer address
+63,1522,223,1682,241,Network,issuer address
+64,1697,223,1783,241,Sdn.,issuer address
+65,1803,223,1888,241,Bhd.,issuer address
+66,1381,251,1474,265,"1-18-8,",issuer address
+67,1487,251,1596,263,Suntech,issuer address
+68,1608,251,1637,265,@,issuer address
+69,1650,251,1752,267,Penang,issuer address
+70,1764,251,1891,267,Cybercity,issuer address
+71,1560,271,1657,287,Lintang,issuer address
+72,1670,271,1776,287,Mayang,issuer address
+73,1790,271,1857,284,Pasir,issuer address
+74,1867,272,1889,286,"3,",issuer address
+75,1366,292,1448,305,11950,issuer address
+76,1460,292,1544,308,Bayan,issuer address
+77,1557,292,1626,307,"Baru,",issuer address
+78,1640,292,1750,308,"Penang,",issuer address
+79,1763,292,1889,308,Malaysia.,issuer address
+80,1373,334,1474,346,Service,issuer address
+81,1484,334,1534,346,Tax,issuer address
+82,1546,334,1589,346,No.,issuer address
+83,1603,334,1889,346,P11-1809-32000073.,issuer address
+84,1392,869,1448,882,Sub,billing info
+85,1458,870,1530,882,Total,billing info
+86,1264,899,1351,911,6.00%,billing info
+87,1360,899,1469,911,Service,billing info
+88,1479,899,1531,911,Tax,billing info
+89,1443,929,1531,941,Credit,billing info
+90,1458,958,1530,971,Total,billing info
+91,238,1097,411,1109,Transaction,
+92,424,1097,488,1109,Date,
+93,739,1093,864,1117,Gateway,
+94,1175,1097,1349,1109,Transaction,
+95,1361,1097,1389,1109,ID,
+96,287,1126,439,1139,7/4/2019,
+97,625,1126,675,1142,Pay,
+98,686,1126,716,1142,by,
+99,727,1126,808,1139,Credit,
+100,818,1126,882,1139,Card,
+101,893,1126,901,1139,/,
+102,912,1126,979,1139,Bank,
+103,669,1147,784,1159,Transfer,
+104,795,1147,931,1162,(MOLPay),
+105,1215,1126,1350,1139,82538977,
+106,1417,1177,1532,1189,Balance,
+107,1683,739,1755,752,Total,
+108,1660,769,1781,781,RM60.00,
+109,1660,819,1781,832,RM60.00,
+110,1651,870,1790,882,RM120.00,
+111,1668,899,1773,911,RMO.00,
+112,1668,929,1773,941,RMO.00,
+113,1651,958,1790,971,RM120.00,
+114,1663,1097,1779,1109,Amount,
+115,1652,1126,1791,1139,RM120.00,
+116,1669,1177,1774,1189,RMO.0O,

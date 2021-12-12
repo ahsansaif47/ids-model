@@ -1,0 +1,103 @@
+Unnamed: 0,xmin,ymin,xmax,ymax,Object,labels
+0,301,137,581,200,Google,invoice details
+1,807,135,1005,206,Monthly,invoice details
+2,1010,135,1217,206,inyoice,invoice details
+3,804,184,865,203,Jul,invoice details
+4,884,184,915,206,"1,",invoice details
+5,932,184,979,203,20,invoice details
+6,1046,194,1059,197,-,invoice details
+7,1072,184,1133,203,Jul,invoice details
+8,1151,184,1209,207,"31,",invoice details
+9,1226,184,1323,203,2017,invoice details
+10,303,212,405,229,Google,issuer address
+11,415,212,476,226,Asia,issuer address
+12,490,212,583,226,Pacific,issuer address
+13,595,212,648,226,Pte.,issuer address
+14,662,212,711,226,Ltd.,issuer address
+15,804,208,935,237,Services,invoice details
+16,1244,219,1346,237,Google,invoice details
+17,1357,220,1489,233,AdWords,invoice details
+18,303,238,336,252,70,issuer address
+19,349,238,421,252,Pasir,issuer address
+20,432,238,547,256,Panjang,issuer address
+21,561,238,634,252,Road,issuer address
+22,805,253,852,267,Bill,invoice details
+23,913,253,942,267,ID,invoice details
+24,1244,253,1480,267,0724-8284-3023,invoice details
+25,302,264,409,280,"#03-71,",issuer address
+26,423,264,564,281,Mapletree,issuer address
+27,577,264,706,278,Business,issuer address
+28,718,264,772,282,City,issuer address
+32,303,290,448,308,Singapore,issuer address
+33,462,290,559,304,117371,issuer address
+34,804,286,914,304,Google,invoice details
+35,925,287,1067,300,AdWords,invoice details
+36,1080,287,1109,300,ID,invoice details
+37,1244,287,1444,300,819-637-6714,invoice details
+38,302,324,353,338,Tax,invoice details
+39,366,324,564,338,Identification,invoice details
+40,578,324,699,338,Number,invoice details
+41,805,320,914,334,Invoice,invoice details
+42,927,320,1048,334,Number,invoice details
+43,1244,309,1378,344,6775-300,invoice details
+44,1377,309,1683,344,1-2058-6094-072017,invoice details
+45,302,350,487,364,200817984R,invoice details
+46,805,354,914,368,Invoice,invoice details
+47,927,354,994,368,Date,invoice details
+48,1243,354,1281,367,Jul,invoice details
+49,1294,354,1335,370,"31,",invoice details
+50,1348,354,1419,368,2017,invoice details
+51,304,383,349,397,Bill,shipping address
+52,361,383,406,397,To:,shipping address
+53,303,409,398,427,Syslab,shipping address
+54,408,410,597,427,Technologies,shipping address
+55,609,409,663,423,Sdn,shipping address
+56,677,410,730,423,Bhd,shipping address
+57,304,436,438,449,NADEEM,shipping address
+58,452,436,592,450,HUSSAIN,shipping address
+59,303,462,368,476,3-4B,shipping address
+60,382,462,515,476,Incubator,shipping address
+61,525,462,548,478,"3,",shipping address
+62,561,462,724,480,Technology,shipping address
+63,737,462,801,476,Park,shipping address
+64,304,488,428,506,Malaysia,shipping address
+65,304,514,373,528,Bukit,shipping address
+66,384,514,436,528,Jalil,shipping address
+67,303,540,390,554,57000,shipping address
+68,403,541,482,554,Kuala,shipping address
+69,495,540,604,558,Lumpur,shipping address
+70,304,567,407,581,KUALA,shipping address
+71,419,567,553,581,LUMPUR,shipping address
+72,304,593,428,610,Malaysia,shipping address
+73,805,639,921,654,Record,
+74,935,639,967,654,of,
+75,979,640,1138,658,payments,
+76,1152,639,1290,654,received,
+77,294,664,349,707,Po,
+78,405,664,500,707,Date,
+79,932,664,1134,707,Description,description
+80,1541,664,1693,707,Amount,product price
+81,374,703,413,717,Jul,
+82,425,703,448,719,"3,",
+83,461,703,531,717,2017,
+84,607,703,740,721,Payment:,description
+85,752,703,813,717,Visa,description
+86,834,703,971,717,247,description
+87,1592,703,1777,721,"(RM2,280.84",product price
+89,365,732,403,746,Jul,
+90,418,732,457,748,"13,",
+91,470,732,540,746,2017,
+92,612,732,749,746,Automatic,description
+93,761,733,890,750,payment:,description
+94,903,732,963,746,Visa,description
+95,985,732,1122,746,****0247,description
+96,1592,732,1788,750,"(RM2,000.00)|",product price
+97,841,786,957,801,Record,
+98,970,786,1003,801,of,
+99,1014,786,1108,801,Costs,
+100,1121,786,1180,801,and,
+101,1192,786,1256,800,VAT,
+103,403,816,470,841,Date,
+105,813,816,988,841,Description,
+107,1333,816,1404,841,Cost,
+109,1613,816,1686,841,Total,

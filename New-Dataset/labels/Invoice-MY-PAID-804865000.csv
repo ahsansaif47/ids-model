@@ -1,0 +1,97 @@
+Unnamed: 0,xmin,ymin,xmax,ymax,Object,labels
+0,199,160,312,228,S,invoice details
+1,337,170,825,214,exabytes?,invoice details
+2,1352,0,2048,261,     ,invoice details
+3,1351,223,1530,246,Exabytes,issuer address
+4,1547,223,1707,241,Network,issuer address
+5,1722,223,1796,241,Sdn,issuer address
+6,1816,223,1889,241,Bhd,issuer address
+7,1381,251,1474,265,"1-18-8,",issuer address
+8,1487,251,1596,263,Suntech,issuer address
+9,1608,251,1637,265,@,issuer address
+10,1650,251,1752,267,Penang,issuer address
+11,1764,251,1891,267,Cybercity,issuer address
+12,1560,271,1657,287,Lintang,issuer address
+13,1670,271,1776,287,Mayang,issuer address
+14,1790,271,1857,284,Pasir,issuer address
+15,1867,272,1889,286,"3,",issuer address
+16,1366,292,1448,305,11950,issuer address
+17,1460,292,1544,308,Bayan,issuer address
+18,1557,292,1626,307,"Baru,",issuer address
+19,1640,292,1750,308,"Penang,",issuer address
+20,1763,292,1889,308,Malaysia.,issuer address
+21,1557,334,1619,346,GST,issuer address
+22,1631,334,1674,346,No.,issuer address
+23,1686,334,1891,346,1452367872,issuer address
+24,156,387,244,407,Tax,invoice details
+25,262,387,435,407,Invoice,invoice details
+26,451,387,943,408,#MY-PAID-80486500,invoice details
+27,159,426,264,440,Invoice,invoice details
+28,277,426,354,440,Date:,invoice details
+29,367,426,537,440,2/12/2017,invoice details
+30,158,457,217,471,Due,invoice details
+31,231,457,309,471,Date:,invoice details
+32,323,457,491,471,16/01/2018,invoice details
+33,158,536,293,550,Invoiced,shipping address
+34,306,536,346,550,To,shipping address
+35,157,558,258,574,SysLab,shipping address
+36,268,558,451,574,Technologies,shipping address
+37,462,558,523,570,SDN,shipping address
+38,537,558,598,570,BHD,shipping address
+39,156,579,244,591,ATTN:,shipping address
+40,256,579,315,591,Dani,shipping address
+41,328,579,436,591,Hussain,shipping address
+42,156,600,220,612,3-4B,shipping address
+43,233,600,359,612,Incubator,shipping address
+44,369,600,391,614,"3,",shipping address
+45,402,600,465,612,TPM,shipping address
+46,158,620,224,632,Bukit,shipping address
+47,234,620,285,632,Jalil,shipping address
+48,158,641,235,653,Kuala,shipping address
+49,246,641,355,656,"Lumpur,",shipping address
+50,366,641,474,656,Wilayah,shipping address
+51,487,641,664,655,"Persekutuan,",shipping address
+52,677,641,760,653,57000,shipping address
+53,158,661,277,677,Malaysia,shipping address
+54,746,730,927,762,Description,description
+55,1683,739,1755,752,Total,product net
+56,159,769,261,781,Domain,description
+57,274,769,390,781,Renewal,description
+58,402,776,410,777,-,description
+59,421,769,696,785,aqdesign81.com.my,description
+60,707,776,714,777,-,description
+61,727,769,735,781,1,description
+62,751,769,838,781,Year/s,description
+63,850,769,1012,785,(16/01/2018,description
+64,1023,776,1031,777,-,description
+65,1044,769,1204,785,15/01/2019),description
+66,1660,769,1781,781,RM80.00,product net
+67,1392,819,1448,832,Sub,billing info
+68,1458,819,1530,832,Total,billing info
+69,1660,819,1782,832,RMs0.00,billing info
+70,1373,849,1459,861,6.00%,billing info
+71,1469,849,1532,861,GST,billing info
+72,1668,849,1773,861,RM4.80,billing info
+73,1430,874,1531,900,Credit,billing info
+74,1668,878,1773,891,RMO.00,billing info
+75,1458,898,1530,931,Total,billing info
+76,1660,908,1782,921,RMs4.80,billing info
+77,156,989,411,1006,Transactions,
+78,238,1047,411,1059,Transaction,
+79,424,1047,488,1059,Date,
+80,739,1037,863,1069,Gateway,
+81,1175,1047,1349,1059,Transaction,
+82,1361,1047,1389,1059,ID,
+83,1663,1047,1779,1059,Amount,
+84,287,1076,439,1089,1/3/2018,
+85,705,1076,755,1092,Pay,
+86,766,1076,797,1092,by,
+87,808,1076,898,1092,Paypal,
+88,1128,1066,1437,1098,4BK65404KH323230B,
+89,1661,1076,1782,1089,RM84.80,
+90,1402,1096,1532,1128,Balance,
+91,1669,1106,1774,1118,RMO0.00,
+92,838,1186,890,1197,PDF,note
+93,899,1186,1027,1197,Generated,note
+94,1037,1189,1065,1197,on,note
+95,1075,1186,1210,1197,1/3/2018,note

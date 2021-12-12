@@ -1,0 +1,101 @@
+,xmin,ymin,xmax,ymax,Object,labels
+0,447,182,537,224,Ali,issuer address
+1,564,186,672,217,and,issuer address
+2,701,186,785,217,Co,issuer address
+3,1358,196,1470,211,Invoice,invoice details
+4,1483,196,1532,211,No.,invoice details
+5,1752,198,1823,211,3265,invoice details
+6,465,228,582,245,Saddar,issuer address
+7,467,254,650,274,"Rawalpindi,",issuer address
+8,667,254,803,270,Pakistan,issuer address
+9,827,254,927,270,42000,issuer address
+19,1483,302,1732,329,INVOICE,invoice details
+20,1771,311,1832,320,?,invoice details
+21,273,493,327,512,Qty,quantity
+22,756,489,935,516,Description,description
+23,1350,493,1411,508,Unit,product price
+24,1424,493,1502,508,Price,product price
+25,1633,493,1742,508,TOTAL,product net
+26,293,517,301,531,1,quantity
+27,389,517,458,532,Web,description
+28,471,517,570,536,Design,description
+29,582,517,615,531,All,description
+30,629,517,719,536,Pages,description
+31,1405,517,1521,534,$150.00 ,product price
+32,1695,517,1812,534,$150.00 ,product net
+33,293,541,301,555,1,quantity
+34,389,541,458,556,Web,description
+35,471,541,663,560,Development,description
+36,1405,541,1521,558,$222.00 ,product price
+37,1695,541,1812,558,$222.00 ,product net
+38,291,566,307,580,2,quantity
+39,390,565,447,584,App,description
+40,460,565,652,584,Development,description
+41,1377,565,1521,582,"$5,555.00 ",product price
+42,1649,565,1812,582,"$11,110.00 ",product net
+43,293,590,301,604,1,quantity
+44,390,589,477,604,Social,description
+45,491,589,578,604,Media,description
+46,590,589,732,608,Marketing,description
+47,1405,589,1521,606,$250.00 ,product price
+48,1695,589,1812,606,$250.00 ,product net
+49,291,614,307,628,2,quantity
+50,390,613,457,628,SEO,description
+51,1405,613,1521,630,$200.00 ,product price
+52,1695,613,1812,630,$400.00 ,product net
+53,291,637,307,651,4,quantity
+54,391,633,517,661,Hostings,description
+55,1405,636,1521,654,$150.00 ,product price
+56,1695,636,1812,654,$600.00 ,product net
+57,1384,921,1514,948,SubTotal,billing info
+58,1649,924,1812,942,"$12,732.00 ",billing info
+59,349,946,484,964,Payment,note
+60,497,946,603,960,Details,note
+61,1217,949,1342,967,Shipping,billing info
+62,1355,949,1374,963,&,billing info
+63,1388,949,1514,967,Handling,billing info
+64,1732,948,1812,965,$7.00 ,billing info
+65,335,972,367,990,©,note
+66,436,967,510,994,Cash,note
+67,1190,973,1279,987,Taxes,billing info
+68,1388,968,1462,995,State,billing info
+69,1695,972,1812,989,$636.60 ,billing info
+70,339,992,353,1018,©O,note
+71,436,997,529,1011,Check,note
+72,342,1016,357,1044,Oo,note
+73,436,1021,523,1035,Credit,note
+74,534,1021,603,1035,Card,note
+75,1405,1021,1515,1035,TOTAL,billing info
+76,1649,1020,1812,1038,"$13,375.60 ",billing info
+77,289,1053,374,1067,Name,note
+78,1253,1077,1338,1092,Office,note
+79,1352,1077,1407,1092,Use,note
+80,1419,1077,1485,1095,Only,note
+82,558,1101,664,1119,Expires,note
+87,308,1173,462,1188,Customer,shipping address
+88,222,1197,308,1211,Name,shipping address
+89,389,1197,474,1211,Aksar,shipping address
+90,484,1197,680,1215,Technologies,shipping address
+91,1315,1193,1381,1219,Date,invoice details
+92,1548,1197,1688,1211,4/31/2021,invoice details
+93,220,1216,340,1245,Address,shipping address
+94,390,1220,452,1235,STP,shipping address
+95,466,1221,615,1235,Islamabad,shipping address
+96,1313,1220,1397,1235,Order,invoice details
+97,1410,1221,1456,1235,No.,invoice details
+98,1548,1221,1583,1235,25,invoice details
+101,210,1240,276,1267,City,shipping address
+102,392,1245,541,1259,Islamabad,shipping address
+103,759,1244,834,1259,State,shipping address
+104,851,1245,948,1259,Pakiste,shipping address
+105,971,1245,1021,1259,ZIP,shipping address
+106,1036,1245,1126,1259,44000,shipping address
+107,1315,1245,1372,1263,Rep,invoice details
+108,1550,1245,1584,1259,Nil,invoice details
+109,223,1269,314,1283,Phone,shipping address
+110,1315,1268,1380,1283,FOB,invoice details
+111,1551,1269,1601,1283,IBD,invoice details
+114,732,1321,815,1336,Insert,note
+115,825,1321,950,1336,Farewell,note
+116,959,1321,1111,1336,Statement,note
+117,1120,1321,1190,1336,Here,note

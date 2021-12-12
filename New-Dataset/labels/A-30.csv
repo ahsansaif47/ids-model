@@ -1,0 +1,113 @@
+Unnamed: 0,xmin,ymin,xmax,ymax,Object,labels
+1,287,174,387,193,PETRO,invoice details
+2,400,174,449,203,OIL,invoice details
+3,165,283,277,297,PETRO,invoice details
+4,289,283,342,297,OIL,invoice details
+5,166,336,205,350,Bill,shipping address
+6,217,336,262,351,To:,shipping address
+7,615,336,654,350,Bill,issuer address
+8,670,336,751,351,From:,issuer address
+9,164,367,269,386,Syslab,shipping address
+10,280,368,493,386,Technologies,shipping address
+11,615,368,697,382,Petro,issuer address
+12,708,367,770,385,"OIL,",issuer address
+13,784,368,917,382,Pakistan,issuer address
+14,164,391,224,406,Sdn,shipping address
+15,238,392,298,406,Bhd,shipping address
+16,614,391,698,406,Office,issuer address
+17,710,392,835,409,"29-A,3rd",issuer address
+18,849,392,922,406,Floor,issuer address
+19,164,416,210,430,4-Mar,issuer address
+20,223,415,241,430,B,shipping address
+21,255,415,390,430,Incubator,shipping address
+22,402,416,425,432,"3,",shipping address
+23,613,415,681,430,Twin,issuer address
+24,694,415,749,434,City,issuer address
+25,762,415,842,430,Plaza,issuer address
+26,164,439,334,457,Technology,shipping address
+27,348,439,413,454,Park,shipping address
+28,425,439,496,454,Bukit,shipping address
+29,616,439,650,454,8-Jan,issuer address
+30,663,439,769,454,Markaz,issuer address
+31,783,439,940,454,Islamabad.,issuer address
+32,163,463,236,480,"Jalil,",shipping address
+33,613,463,712,480,"44000,",issuer address
+34,727,463,850,478,Pakistan,issuer address
+35,165,487,460,505,"Kualalumopur,",shipping address
+36,164,511,272,525,57000,shipping address
+37,165,535,349,553,Malaysia,shipping address
+38,153,657,212,671,Item,description
+39,152,707,272,726,Hosting,description
+40,151,740,214,759,App,description
+41,227,740,333,759,Desing,description
+42,151,774,219,789,SEO,description
+43,151,809,214,827,App,description
+44,227,809,433,827,Development,description
+45,151,843,219,858,Web,description
+46,231,843,366,858,Services,description
+47,164,1125,265,1139,Terms:,note
+48,165,1157,327,1175,Beneficiary,note
+49,339,1157,419,1172,bears,note
+50,430,1157,475,1172,the,note
+51,489,1157,633,1175,Exchange,note
+52,646,1157,713,1172,Rate,note
+53,724,1157,893,1172,differences.,note
+54,1088,54,1463,96,INVOICE,invoice details
+55,1497,56,1547,96,#,invoice details
+56,1577,55,1903,96,45-2021,invoice details
+57,1461,191,1535,219,Date:,invoice details
+58,1700,195,1755,210,Dec,invoice details
+59,1767,195,1809,212,"31,",invoice details
+60,1823,195,1894,210,2019,invoice details
+61,1294,238,1422,256,Payment,invoice details
+62,1433,238,1535,253,Terms:,invoice details
+63,1775,238,1898,253,Transfer,invoice details
+64,1389,281,1446,296,Due,invoice details
+65,1460,281,1535,296,Date:,invoice details
+66,1700,281,1755,296,Dec,invoice details
+67,1767,281,1809,298,"31,",invoice details
+68,1823,281,1894,296,2019,invoice details
+69,1299,327,1443,344,Balance,invoice details
+70,1457,327,1535,344,Due:,invoice details
+71,1653,327,1735,343,MYR,invoice details
+72,1750,327,1895,347,"1,100.00",invoice details
+73,1215,657,1337,675,Quantity,quantity
+74,1567,653,1632,680,Rate,product price
+75,1807,658,1896,671,mount,product net
+76,1422,707,1492,721,MYR,product price
+77,1504,707,1631,724,"2,100.00",product price
+78,1687,707,1756,721,MYR,product net
+79,1769,707,1896,724,"2,100.00",product net
+80,1422,742,1492,756,MYR,product price
+81,1506,742,1631,759,"1,500.00",product price
+82,1687,742,1757,756,MYR,product net
+83,1771,742,1896,758,"1,500.00",product net
+84,1422,776,1492,790,MYR,product price
+85,1506,776,1631,793,"1,500.00",product price
+86,1687,776,1757,790,MYR,product net
+87,1771,776,1896,793,"1,500.00",product net
+88,1422,810,1492,824,MYR,product price
+89,1504,810,1631,827,"2,000.00",product price
+90,1687,810,1757,824,MYR,product net
+91,1769,810,1896,827,"2,000.00",product net
+92,1422,844,1492,859,MYR,product price
+93,1506,844,1631,861,"1,800.00",product price
+94,1687,844,1756,858,MYR,product net
+95,1771,844,1896,861,"1,800.00",product net
+96,1454,968,1535,996,Total:,billing info
+97,1687,973,1757,987,MYR,billing info
+98,1769,973,1896,989,"8,900.00",billing info
+99,1336,1016,1449,1030,Amount,billing info
+100,1462,1016,1535,1030,Paid:,billing info
+101,1687,1016,1757,1030,MYR,billing info
+102,1769,1016,1896,1032,"7,800.00",billing info
+103,164,1184,225,1199,This,note
+104,237,1184,258,1199,is,note
+105,270,1185,372,1202,system,note
+106,385,1184,539,1199,Generated,note
+107,552,1184,653,1199,invoice,note
+108,665,1184,717,1199,and,note
+109,730,1184,799,1199,does,note
+110,812,1185,856,1199,not,note
+111,868,1184,968,1202,require,note
+112,980,1184,1223,1202,signature/stamp.,note

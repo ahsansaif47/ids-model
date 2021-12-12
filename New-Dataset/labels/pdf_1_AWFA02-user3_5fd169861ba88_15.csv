@@ -1,0 +1,335 @@
+Unnamed: 0,xmin,ymin,xmax,ymax,Object,labels
+0,223,171,279,182,PDT,invoice details
+1,286,171,410,182,Reference,invoice details
+2,420,171,462,182,No.,invoice details
+3,224,222,280,237,Page,invoice details
+4,944,93,1092,107,Purchase,invoice details
+5,1104,93,1201,107,Order,invoice details
+6,754,208,894,217,6120043443,invoice details
+7,643,222,647,233,lL,invoice details
+8,660,222,701,233,of2,invoice details
+9,1068,142,1176,153,Purchase,invoice details
+10,1186,142,1260,153,Order,invoice details
+11,1266,142,1307,153,No.,invoice details
+12,1068,164,1176,175,Purchase,invoice details
+13,1186,164,1260,175,Order,invoice details
+14,1266,164,1323,175,Date,invoice details
+15,1458,152,1462,153,:,invoice details
+16,1493,142,1714,153,10039-6120043443,invoice details
+17,1458,174,1462,175,2,invoice details
+18,1489,164,1619,175,9/12/2020,invoice details
+19,1068,193,1156,204,Printed,invoice details
+20,1162,196,1191,204,on,invoice details
+21,1458,196,1462,204,2,invoice details
+22,1494,193,1619,204,10/12/2020,invoice details
+23,1627,193,1724,204,8:19:16,invoice details
+24,1070,222,1182,237,Expected,invoice details
+25,1190,222,1285,233,Receive,invoice details
+26,1296,222,1352,233,Date,invoice details
+27,1362,222,1385,233,&,invoice details
+28,1393,222,1462,233,Time:,invoice details
+29,1489,221,1619,233,30/12/2020,invoice details
+30,1632,222,1724,233,18:00:00,invoice details
+32,231,244,322,255,Vendor,issuer address
+36,1078,244,1170,259,Ship-To,shipping address
+37,1180,244,1284,255,Location,shipping address
+40,224,266,295,277,4516,issuer address
+41,305,266,415,277,AWFAO2,issuer address
+42,225,288,508,299,A.W.FABER-CASTELL,issuer address
+43,515,288,557,302,(MD),issuer address
+44,566,288,622,299,SDN,issuer address
+45,630,288,689,299,BHD,issuer address
+46,226,310,281,322,NO.9,issuer address
+47,290,320,295,324,",",issuer address
+48,303,310,390,322,JALAN,issuer address
+49,400,310,432,322,TP,issuer address
+50,440,310,453,322,2,issuer address
+51,224,332,324,344,TAMAN,issuer address
+52,334,332,555,344,PERINDUSTRLIAN,issuer address
+53,566,332,633,344,SIME,issuer address
+54,642,333,698,346,"UEP,",issuer address
+55,223,354,295,366,47600,issuer address
+56,305,354,419,366,SUBANG,issuer address
+57,427,354,500,366,JAYA,issuer address
+58,507,354,658,366,SELANGOR,issuer address
+59,663,355,758,366,DARUL,issuer address
+60,764,354,856,366,LLISAN,issuer address
+61,224,376,260,388,‘Vel,issuer address
+62,268,380,271,388,:,issuer address
+63,279,377,433,388,03-56334718,issuer address
+64,442,369,524,397,563347,issuer address
+65,537,377,573,388,ax,issuer address
+66,582,380,585,388,:,issuer address
+67,592,377,745,388,O3-56341231,issuer address
+68,1075,266,1141,277,10039,shipping address
+69,1150,266,1189,277,TW,shipping address
+70,1070,288,1174,299,Beonsave,shipping address
+71,1183,288,1238,299,Cash,shipping address
+72,1246,288,1268,299,&,shipping address
+73,1275,288,1339,303,Carry,shipping address
+74,1346,288,1401,302,(IW),shipping address
+75,1410,288,1453,299,Sdn,shipping address
+76,1460,288,1505,299,Bhd,shipping address
+77,1070,311,1108,322,Lot,shipping address
+78,1116,310,1247,324,"326,Mukim",shipping address
+79,1252,311,1271,323,"7,",shipping address
+80,1283,310,1352,322,14300,shipping address
+81,1361,310,1465,325,Seberang,shipping address
+82,1472,311,1528,322,Perai,shipping address
+83,1535,310,1620,324,"Selatan,",shipping address
+84,1070,332,1130,344,Pulau,shipping address
+85,1137,332,1214,347,Pinang.,shipping address
+86,1070,376,1106,388,‘Vel,shipping address
+87,1114,380,1117,388,:,shipping address
+88,1124,376,1300,388,04-5821562/63,shipping address
+89,1380,377,1423,388,liax,shipping address
+90,1431,380,1434,388,:,shipping address
+91,1442,376,1583,388,04-5821564,shipping address
+96,225,399,307,410,E-mail:,issuer address
+97,1072,399,1153,410,E-mail:,shipping address
+98,231,422,266,430,Trem,
+99,476,407,589,441,Description,description
+100,1085,421,1197,430,SKU/Order,
+101,1206,421,1246,430,Unit,
+102,1335,422,1395,430,Order,
+103,1404,422,1450,430,Pack,
+104,1547,407,1590,441,Toral|,quantity
+105,1663,421,1703,430,Unie,product price
+106,1711,421,1762,430,Price,product price
+107,1844,422,1921,430,Amoung],product net
+108,231,425,312,459,Rarcede,
+109,1090,425,1174,459,Capacity,
+110,1413,440,1453,449,Unit],
+111,1551,427,1581,461,Qty,quantity
+112,1871,440,1920,450,aan,product price
+113,370,455,429,494,aos,product net
+114,469,469,503,480,[FC,description
+115,512,469,573,480,URU,description
+116,581,469,633,480,ALL,description
+117,640,469,766,480,PURPOSE,description
+118,773,469,873,480,7ML-PB,description
+119,881,469,918,480,OF,description
+120,932,469,935,480,1,description
+121,948,469,1062,480,91040375,description
+122,1417,459,1450,490,se,
+123,1547,453,1592,488,10.0],quantity
+124,1684,453,1762,487,2.02,product price
+125,1856,469,1920,480,20.20],product net
+126,225,499,417,529,8135003,
+127,469,508,503,520,FC,description
+128,513,508,600,520,CLICK,description
+129,607,508,729,520,BALLPEN,description
+130,740,508,827,523,(BLUE),description
+131,835,508,865,520,4S,description
+132,874,508,962,520,0.5MM,description
+133,971,508,1053,520,142593,description
+134,1416,499,1452,529,Sel,
+135,1542,494,1592,527,20.0],quantity
+136,1683,508,1762,520,2.21,product price
+137,1855,508,1920,520,44.2,product net
+138,269,538,355,569,oes,
+139,362,558,419,569,soxe,
+140,470,548,504,559,[FC,description
+141,513,548,598,559,CLICK,description
+142,608,548,729,559,BALLPEN,description
+143,740,548,825,562,(ASST),description
+144,833,548,863,559,4S,description
+145,872,548,958,559,0.5MM,description
+146,971,548,1052,559,142594,description
+147,1191,538,1296,569,LUNES,
+148,1417,538,1450,569,ae,
+149,1542,548,1584,559,20,quantity
+150,1683,548,1762,559,2.21,product price
+151,1855,548,1920,559,44.20),product net
+152,309,578,417,608,122543,
+153,469,587,504,599,FO,description
+154,513,587,597,599,CLICK,description
+155,607,587,731,598,BALLPEN,description
+156,740,587,827,601,(BLUR),description
+157,835,587,855,599,48,description
+158,874,587,962,599,0.7MM,description
+159,971,587,1054,599,142252,description
+160,1193,578,1296,608,bone,
+161,1421,578,1452,608,8,
+162,1542,573,1592,606,20.0],quantity
+163,1684,572,1762,605,2.21,product price
+164,1855,587,1920,599,44.2,product net
+165,470,627,504,638,[FC,description
+166,513,627,598,638,CLICK,description
+167,609,627,729,638,BALLPEN,description
+168,740,627,813,641,(BLK),description
+169,821,627,850,638,48,description
+170,860,627,945,638,0.7MM,description
+171,959,627,1039,638,142255,description
+172,1417,617,1452,648,ae,
+173,1542,627,1592,638,20.0],quantity
+174,1683,627,1762,638,2.21,product price
+175,1855,627,1920,638,44.20),product net
+176,225,657,418,687,eee,
+177,469,666,503,678,FO,description
+178,513,666,597,678,CLICK,description
+179,607,666,731,677,BATIPEN,description
+180,740,666,825,681,(ASST),description
+181,833,666,863,678,4S,description
+182,872,666,960,678,0.7MM,description
+183,969,666,1052,678,142254,description
+184,1204,657,1280,687,UNTR,
+185,1416,657,1452,687,Sel,
+186,1534,658,1592,688,20.0),quantity
+187,1684,658,1762,688,2.2100),product price
+188,1855,658,1920,688,44.20),product net
+189,287,696,358,726,ele,
+190,469,706,503,717,[FC,description
+191,513,706,575,717,GRIP,description
+192,583,706,632,717,X10,description
+193,640,705,717,717,B/PEN,description
+194,730,706,814,717,1.0MM,description
+195,821,706,893,717,BLUE,description
+196,900,706,929,717,3S,description
+197,938,706,1022,717,547605,description
+198,1193,696,1296,726,ponte,
+199,1287,692,1300,730,|,
+200,1542,690,1592,724,20.0),quantity
+201,1683,689,1762,724,2.6,product price
+202,1857,706,1920,717,52,product net
+203,354,735,418,766,3622,
+204,469,745,503,756,IPC:,description
+205,513,745,575,756,GRIP,description
+206,583,745,632,756,X10,description
+207,640,745,719,756,B/PEN,description
+208,732,745,814,756,1.0MM,description
+209,821,745,915,756,BLACK,description
+210,925,745,954,756,3S,description
+211,963,745,1049,756,547606,description
+212,1193,755,1241,766,TUN,
+213,1246,735,1296,766,reo,
+214,1417,735,1452,766,oo,
+215,1542,730,1592,762,20.0),quantity
+216,1684,729,1762,761,2.6000),product price
+217,1856,728,1920,760,52.00],product net
+218,468,784,503,796,[EC,description
+219,513,784,575,796,GRIP,description
+220,583,785,632,796,X10,description
+221,639,785,709,796,BPEN,description
+222,723,784,807,796,1.0MM,description
+223,813,784,970,796,BL/BK/RD3S,description
+224,1417,775,1449,806,oo,
+225,1532,770,1592,803,10.0],quantity
+226,1683,784,1762,796,2.6,product price
+227,1855,784,1920,796,26,product net
+228,469,821,555,832,547608,description
+229,468,859,503,870,[EC,description
+230,512,859,555,870,NX.,description
+231,561,858,638,870,L/PLIN,description
+232,649,859,683,870,0.5,description
+233,692,859,764,870,BLUL,description
+234,770,859,800,870,48,description
+235,809,858,892,870,642301,description
+236,1417,849,1452,880,ao,
+237,1542,843,1592,876,20.0],quantity
+238,1683,859,1762,870,2.34,product price
+239,1855,858,1920,870,46.8,product net
+240,269,888,347,919,eee,
+241,470,898,504,909,FC,description
+242,512,898,554,909,NX,description
+243,562,898,639,909,B/PEN,description
+244,649,898,684,909,0.7,description
+245,693,898,764,909,BLUE,description
+246,770,898,800,909,4S,description
+247,809,898,890,909,642401,description
+248,1191,889,1296,919,UNTER,
+249,1416,888,1451,919,oe,
+250,1542,883,1592,915,20.0),quantity
+251,1683,898,1762,909,2.34,product price
+252,1855,881,1920,913,46:20),product net
+253,274,924,304,962,oO,
+254,469,937,503,949,FC,description
+255,511,937,554,949,NX,description
+256,561,937,640,949,B/PEN,description
+257,649,937,683,949,0.7,description
+258,692,937,785,949,BLACK,description
+259,796,937,825,949,4S,description
+260,834,937,920,949,642402,description
+261,1193,928,1288,958,ponte,
+262,1287,928,1296,958,|,
+263,1417,928,1452,958,oo,
+264,1533,923,1592,955,20.0],quantity
+265,1684,937,1762,949,2.3400),product price
+266,1855,937,1920,949,46.80),product net
+267,469,977,503,988,[FC,description
+268,512,977,555,988,NX,description
+269,561,977,640,988,B/PEN,description
+270,649,977,684,988,0.7,description
+271,693,977,777,988,2BLU/I,description
+272,783,977,916,988,BLK/IRED,description
+273,922,977,952,988,48,description
+274,1191,967,1296,998,TUN,
+275,1417,967,1452,998,oo,
+276,1542,962,1592,995,20.0],quantity
+277,1684,977,1762,988,2.34,product price
+278,1855,977,1920,988,46.8,product net
+279,469,1013,554,1025,642403,description
+280,469,1051,503,1062,IFO,description
+281,511,1051,555,1062,NX,description
+282,561,1051,640,1062,B/PEN,description
+283,654,1051,684,1062,1,description
+284,692,1051,786,1062,BLACK,description
+285,795,1051,825,1062,4S,description
+286,834,1051,920,1062,642502,description
+287,1191,1041,1296,1072,LUNES,
+288,1417,1041,1452,1072,ae,
+289,1542,1036,1592,1069,20.0],quantity
+290,1684,1051,1762,1062,2.34,product price
+291,1855,1051,1920,1062,46.8,product net
+292,225,1081,291,1111,a,
+293,468,1090,503,1102,[EC,description
+294,513,1090,566,1102,GEL,description
+295,572,1091,624,1102,PEN,description
+296,634,1091,705,1102,TRUE,description
+297,712,1090,765,1102,GEL,description
+298,772,1091,806,1102,0.5,description
+299,815,1090,912,1102,BL/RED,description
+300,919,1090,955,1102,BC,description
+301,1416,1081,1452,1111,38,
+302,1542,1076,1592,1109,20.0],quantity
+303,1683,1090,1762,1102,2.39,product price
+304,1855,1090,1920,1102,47.8,product net
+305,469,1127,554,1138,243505,description
+306,436,1151,456,1189,—,
+307,468,1165,503,1176,|(EC,description
+308,512,1165,584,1176,TRUE,description
+309,591,1165,644,1176,GEL,description
+310,652,1165,764,1176,WALLET,description
+311,773,1165,858,1176,1.0MM,description
+312,865,1165,894,1176,6S,description
+313,903,1164,989,1176,242609,description
+314,1290,1155,1296,1185,|,
+315,1416,1155,1452,1185,sel,
+316,1532,1150,1592,1183,12.0],quantity
+317,1684,1149,1766,1182,7.5800),product price
+318,1856,1165,1920,1176,90.96,product net
+319,225,1190,348,1229,ees,
+320,362,1214,418,1225,omar,
+321,470,1204,504,1215,FC,description
+322,513,1204,551,1215,RX,description
+323,558,1204,611,1215,GEL,description
+324,619,1204,670,1215,PEN,description
+325,680,1204,714,1215,0.5,description
+326,724,1204,795,1215,BLUE,description
+327,801,1204,831,1215,2S,description
+328,839,1204,921,1215,249901,description
+329,1191,1194,1296,1225,LUNES,
+330,1417,1194,1452,1225,ae,
+331,1542,1189,1594,1221,20.0),quantity
+332,1688,1204,1762,1215,1.92,product price
+333,1856,1187,1920,1219,38.40],product net
+339,770,1256,782,1263,*,
+340,791,1256,836,1268,This,note
+341,845,1256,860,1268,is,note
+342,867,1258,971,1271,computer,note
+343,978,1256,1091,1271,"generated,",note
+344,1100,1260,1126,1268,no,note
+345,1135,1256,1230,1271,signature,note
+346,1239,1256,1253,1268,is,note
+347,1262,1256,1372,1271,required.*,note
+349,1922,416,1924,1230,100000,note

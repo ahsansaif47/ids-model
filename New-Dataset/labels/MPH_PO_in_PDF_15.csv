@@ -1,0 +1,98 @@
+Unnamed: 0,xmin,ymin,xmax,ymax,Object,labels
+0,77,77,201,102,MPH,issuer address
+1,226,78,270,108,@,issuer address
+2,303,76,512,103,D'Pulze,issuer address
+3,73,120,105,131,LG,issuer address
+5,122,120,149,132,"10,",issuer address
+6,158,120,227,131,Lower,issuer address
+7,234,120,314,131,Ground,issuer address
+8,323,120,380,130,Floor,issuer address
+9,1525,74,1579,85,Date,invoice details
+10,73,140,154,151,D'Pulze,issuer address
+11,163,140,271,154,Cyberjaya,issuer address
+12,280,140,381,154,Shopping,issuer address
+13,389,140,459,151,Centre,issuer address
+14,1739,73,1888,86,15-08-2020,invoice details
+15,1739,98,1797,114,Page,invoice details
+16,1806,98,1818,110,3,invoice details
+17,1828,98,1854,110,of,invoice details
+18,1861,98,1873,110,3,note
+19,803,120,839,131,Tot,issuer address
+20,847,120,918,132,"47594,",issuer address
+21,928,120,1003,131,Mukim,issuer address
+22,1013,120,1096,134,Dengkil,issuer address
+23,803,140,869,151,63000,issuer address
+24,877,140,960,154,"Sepang,",issuer address
+25,969,140,1068,154,Sclangor.,issuer address
+26,76,171,282,192,Purchase,invoice details
+27,298,171,425,192,Order,invoice details
+28,570,172,880,194,PO/150011267,invoice details
+29,233,214,303,228,A.W.,shipping address
+30,314,215,421,228,FABER,shipping address
+31,431,214,556,228,CASTEL,shipping address
+32,234,239,306,253,"9,ILN",shipping address
+33,315,239,364,251,TP2,shipping address
+34,233,261,299,273,TMN,shipping address
+35,307,261,546,273,PERINDUSTRIAN,shipping address
+36,555,261,625,273,SIME,shipping address
+37,634,261,690,273,UEP,shipping address
+38,233,283,307,295,47600,shipping address
+39,317,283,439,295,SUBANG,shipping address
+40,85,215,124,226,To:,shipping address
+42,1041,232,1120,244,Please,note
+43,1129,232,1208,244,advise,note
+44,1217,235,1261,247,any,note
+45,1271,232,1327,244,item,note
+46,1337,232,1412,244,which,note
+47,1420,236,1465,247,you,note
+48,1475,233,1561,244,cannot,note
+49,1569,232,1682,247,despatch,note
+50,1042,251,1211,263,inaccordance,note
+51,1220,251,1275,263,with,note
+52,1284,255,1328,263,our,note
+53,1337,251,1425,263,instruc,note
+55,1437,251,1495,263,ions.,note
+70,1104,284,1210,306,Please,note
+71,1222,284,1334,311,supply,note
+72,1345,295,1382,306,ex,note
+73,1385,280,1484,316,stock,note
+74,1496,284,1577,311,onty:,note
+75,80,335,117,347,Tel,shipping address
+76,238,324,396,355,03-80246363,shipping address
+77,507,334,556,346,Fax:,shipping address
+78,575,334,734,346,03-80247886,shipping address
+82,988,359,1129,373,Delivery,invoice details
+83,1151,360,1218,370,Date,invoice details
+84,1245,362,1250,370,:,invoice details
+85,1297,358,1472,371,29/08/2020,invoice details
+86,80,399,194,410,REMARK,invoice details
+87,148,436,198,448,Item,
+88,209,436,270,448,Code,
+89,416,436,467,448,Item,description
+90,479,435,614,451,Description,description
+91,1142,435,1229,451,Imprint,
+92,1351,435,1421,448,Order,quantity
+93,1429,436,1472,451,Qty,quantity
+94,1526,435,1577,448,Unit,product price
+95,1585,436,1640,448,Cost,product price
+96,1758,435,1799,448,?tal,product net
+97,1810,436,1864,448,Cost,product net
+98,90,1203,194,1219,Prepared,note
+99,204,1203,238,1219,by:,note
+100,350,1203,438,1215,FARID,note
+101,1169,1203,1215,1215,E.&,billing info
+102,1224,1203,1276,1215,O.F.,billing info
+103,1339,1203,1384,1215,Sub,billing info
+104,1393,1203,1453,1215,Total,billing info
+105,1777,1203,1879,1218,"3,130.08",billing info
+106,1082,1236,1192,1251,Currency,billing info
+107,1295,1236,1336,1247,RM,billing info
+108,1403,1230,1465,1258,Total,billing info
+109,1777,1235,1879,1249,"3,130.08",billing info
+111,214,1379,311,1391,Ordered,note
+112,321,1379,349,1395,by,note
+114,790,1379,969,1395,Acknowledged,note
+115,980,1380,1012,1395,By,note
+116,1022,1379,1122,1395,Supplier,note
+118,1639,1379,1757,1395,Approved,note
+119,1768,1380,1800,1395,By,note
