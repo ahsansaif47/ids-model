@@ -1,0 +1,94 @@
+Unnamed: 0,xmin,ymin,xmax,ymax,Object,labels
+0,301,137,585,202,Google,
+1,807,155,980,179,Monthly,
+2,1034,155,1217,179,invoice,
+3,804,184,878,203,Jan,
+4,897,184,928,207,"1,",
+5,945,180,1042,213,2017,
+6,1059,194,1071,197,-,
+7,1085,184,1159,203,Jan,
+8,1176,184,1234,207,"31,",
+9,1251,184,1348,203,2017,
+10,303,212,405,229,Google,Issuer Address
+11,415,212,476,226,Asia,Issuer Address
+12,490,212,583,226,Pacific,Issuer Address
+13,595,212,648,226,Pte.,Issuer Address
+14,662,212,711,226,Ltd.,Issuer Address
+15,804,215,935,241,Services,
+16,1244,219,1346,237,Google,
+17,1357,220,1489,233,AdWords,
+18,303,238,336,252,70,Issuer Address
+19,349,238,421,252,Pasir,Issuer Address
+20,432,238,547,256,Panjang,Issuer Address
+21,561,238,634,252,Road,Issuer Address
+22,792,244,852,277,Bill,
+23,913,253,942,267,ID,
+24,1244,253,1480,267,0724-8284-3023,
+25,302,264,409,280,"#03-71,",Issuer Address
+26,423,264,564,281,Mapletree,Issuer Address
+27,577,264,706,278,Business,Issuer Address
+28,718,264,772,282,City,
+29,829,257,900,271,mins,
+30,1316,261,1324,263,-,
+31,1399,261,1408,263,-,
+32,303,290,448,308,Singapore,Issuer Address
+33,462,290,559,304,117371,Issuer Address
+34,804,286,914,304,Google,
+35,925,287,1067,300,AdWords,
+36,1080,287,1109,300,ID,
+37,1244,287,1444,300,819-637-6714,
+38,302,324,353,338,Tax,Issuer Address
+39,366,324,564,338,Identification,Issuer Address
+40,578,324,699,338,Number,Issuer Address
+41,805,320,914,334,Invoice,Order Number
+42,927,320,1048,334,Number,Order Number
+43,1244,320,1683,334,6775-3001-2058-6094-012017,Order Number
+44,302,350,487,364,200817984R,
+45,805,354,914,368,Invoice,Issuer Date
+46,927,354,994,367,Date,Issuer Date
+47,1243,354,1292,367,Jan,Issuer Date
+48,1306,354,1346,370,"31,",Issuer Date
+49,1359,354,1429,368,2017,Issuer Date
+50,304,383,349,397,Bill,
+51,361,383,406,397,To:,
+52,303,409,398,427,Syslab,Shipping Address
+53,408,410,597,427,Technologies,Shipping Address
+54,609,409,663,423,Sdn,Shipping Address
+55,677,410,730,423,Bhd,Shipping Address
+56,304,436,438,449,NADEEM,Shipping Address
+57,452,436,592,450,HUSSAIN,Shipping Address
+58,303,462,368,476,3-4B,Shipping Address
+59,382,462,515,476,Incubator,Shipping Address
+60,525,462,548,478,"3,",Shipping Address
+61,561,462,724,480,Technology,Shipping Address
+62,737,462,801,476,Park,Shipping Address
+63,304,488,428,506,Malaysia,Shipping Address
+64,304,514,373,528,Bukit,Shipping Address
+65,384,514,436,528,Jalil,Shipping Address
+66,303,540,390,554,57000,Shipping Address
+67,403,541,482,554,Kuala,Shipping Address
+68,495,541,604,558,Lumpur,Shipping Address
+69,304,567,407,581,KUALA,Shipping Address
+70,419,567,553,581,LUMPUR,Shipping Address
+71,304,593,428,610,Malaysia,Shipping Address
+72,805,639,921,654,Record,
+73,935,639,967,654,of,
+74,979,640,1138,658,payments,
+75,1152,639,1290,654,received,
+77,397,703,446,717,Jan,
+78,461,703,500,719,"10,",
+79,513,703,583,717,2017,
+80,841,757,957,772,Record,
+81,970,757,1003,772,of,
+82,1014,757,1108,772,Costs,
+83,1121,757,1180,772,and,
+84,1192,757,1256,771,VAT,
+85,301,783,304,812,[,
+86,403,787,470,812,Date,
+87,569,783,574,812,I,
+88,813,787,988,812,Description,
+89,1228,783,1233,812,I,
+90,1333,787,1404,812,Cost,
+91,1504,783,1510,812,I,
+92,1613,787,1686,812,Total,
+93,304,777,1792,791,100000,

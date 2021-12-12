@@ -1,9 +1,4 @@
 # Dataset ignored
 # Dataset Matrices ignored
 
-/Dataset (Labelled Images)
-/Test Invoices Folder
 *.npy
-/Test Invoices
-/Image Files
-/New-Dataset

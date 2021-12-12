@@ -1,0 +1,92 @@
+,xmin,ymin,xmax,ymax,Object,labels
+0,1542,62,1918,105,INVOICE,
+1,1726,124,1748,141,#,
+2,1761,124,1909,141,33-2018,
+3,132,216,171,245,G,
+4,203,216,228,244,L,
+5,250,214,307,247,&,
+6,335,216,367,244,B,
+7,392,216,433,244,A,
+8,462,216,488,244,L,
+9,1461,221,1535,246,Date:,Issuer Date
+10,1703,225,1754,239,Jan,Issuer Date
+11,1766,225,1809,242,"30,",Issuer Date
+12,1822,225,1894,239,2018,Issuer Date
+14,1294,268,1422,286,Payment,
+15,1433,268,1535,282,Terms:,
+16,1775,268,1898,283,Transfer,
+17,165,284,209,299,KN,Issuer Address
+18,222,284,468,302,"Global,Pakistan",Issuer Address
+19,164,309,248,324,Office,Issuer Address
+20,260,310,385,326,"29-A,3rd",Issuer Address
+21,400,310,472,324,Floor,Issuer Address
+22,483,310,550,324,Twin,Issuer Address
+23,563,309,618,328,City,Issuer Address
+24,631,310,711,324,Plaza,Issuer Address
+25,1389,311,1446,326,Due,Deliver Date
+26,1460,311,1535,326,Date:,Deliver Date
+27,1703,311,1754,326,Jan,Deliver Date
+28,1766,312,1809,328,"31,",Deliver Date
+29,1822,312,1894,326,2018,Deliver Date
+30,166,335,200,350,I-8,Issuer Address
+31,214,335,319,350,Markaz,Issuer Address
+32,333,335,490,350,Islamabad.,Issuer Address
+33,164,355,391,386,"44000,Pakistan",Issuer Address
+34,1299,358,1443,375,Balance,
+35,1457,358,1535,375,Due:,
+36,1772,359,1823,375,RM,
+37,1832,358,1897,375,O.0o0,
+38,166,414,205,428,Bill,Shipping Address
+39,217,414,262,428,To:,Shipping Address
+40,164,446,269,465,Syslab,Shipping Address
+41,280,447,493,465,Technologies,Shipping Address
+42,505,446,565,461,Sdn,Shipping Address
+43,579,447,639,461,Bhd,Shipping Address
+44,164,472,210,487,3-4,Shipping Address
+45,223,472,241,486,B,Shipping Address
+46,255,472,390,487,Incubator,Shipping Address
+47,401,472,425,489,"3,",Shipping Address
+48,164,497,334,516,Technology,Shipping Address
+49,347,497,413,512,Park,Shipping Address
+50,425,497,496,512,Bukit,Shipping Address
+51,506,497,561,512,Jalil,Shipping Address
+52,575,509,579,514,",",Shipping Address
+53,165,523,460,541,"Kualalumpur,",Shipping Address
+54,164,548,272,563,57000,Shipping Address
+55,165,573,349,592,Malaysia,Shipping Address
+56,153,672,212,686,Item,
+57,1231,671,1352,690,Quantity,
+58,1575,667,1640,694,Rate,
+59,1783,672,1896,686,Amount,
+60,150,722,219,737,Web,
+61,231,722,366,737,Services,
+62,1233,723,1241,736,1,
+63,1443,722,1490,736,RM,
+64,1498,723,1640,739,"20,000.00",
+65,1700,722,1747,736,RM,
+66,1755,723,1897,739,"20,000.00",
+67,1406,846,1535,875,Subtotal:,
+68,1700,850,1747,864,RM,
+69,1755,851,1897,867,"20,000.00",
+70,1454,890,1535,917,Total:,
+71,1700,893,1747,908,RM,
+72,1755,894,1897,910,"20,000.00",
+73,1336,937,1449,951,Amount,
+74,1462,937,1535,951,Paid:,
+75,164,1044,265,1059,Terms:,
+76,165,1077,327,1095,Beneficiary,
+77,339,1077,419,1091,bears,
+78,430,1077,475,1091,the,
+79,489,1077,633,1095,Exchange,
+80,646,1077,713,1091,Rate,
+81,724,1077,893,1091,differences.,
+82,164,1103,225,1118,This,
+83,237,1103,258,1118,is,
+84,270,1105,372,1122,system,
+85,385,1103,539,1118,Generated,
+86,552,1103,653,1118,invoice,
+87,665,1103,717,1118,and,
+88,729,1103,799,1118,does,
+89,812,1105,856,1118,not,
+90,868,1103,968,1122,require,
+91,981,1103,1223,1122,signature/stamp.,
