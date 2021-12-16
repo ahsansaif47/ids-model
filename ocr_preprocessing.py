@@ -18,6 +18,7 @@ Pre-Processing Pipeline:
 3. Save this newly created graph.
 4. Update Embeddings model vocabulary.
 5. Save embeddings model.
+6. Delete CSV Files.
 """
 
 
@@ -47,5 +48,13 @@ def update_GraphVocab(G):
     emb_model.save('./Model/Word2Vec_Model.bin')
 
 
-def processing():
-    pass
+def deleteFiles():
+    for i in csvs:
+        os.remove(t_csv_folder+i)
+
+
+def processing(big_G):
+    new_G = Make_Giant_Graph()
+    Compose_and_Save_Graphs(big_G, new_G)
+    update_GraphVocab(big_G)
+    deleteFiles()
