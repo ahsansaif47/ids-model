@@ -47,7 +47,6 @@ Pre-Processing Pipeline:
     1.1 Compose new CSVs Graphs.
 2. Compose new Graph with already existing graph.
 3. Save this newly created graph.
-4. Update 
-
-more than just one line
+4. Update Embeddings model vocabulary.
+5. Save embeddings model.
 """
