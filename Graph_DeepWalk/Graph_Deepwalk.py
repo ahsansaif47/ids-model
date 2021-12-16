@@ -32,5 +32,5 @@ def build_deepwalk_corpus(G, num_paths, rand=random.Random()):
     return walks
 
 
-G = nx.read_gpickle('./Graph DS/Graph.gpickle')
-print(random_walk(G, start=None))
+# G = nx.read_gpickle('./Graph DS/Graph.gpickle')
+# print(random_walk(G, start=None))

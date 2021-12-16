@@ -22,22 +22,14 @@ Pre-Processing Pipeline:
 """
 
 
-def Make_Giant_Graph():
-    Inc_Graph = nx.Graph()
-    for i in range(len(csvs)):
-        df = pd.read_csv(t_csv_folder+csvs[i])
-        G = Grapher.makeGraph(df)
-        Inc_Graph = nx.compose(Inc_Graph, G)
-
-    return Inc_Graph
-
-
-def Compose_and_Save_Graphs(G1, G2):
-    G1 = nx.compose(G1, G2)
-    nx.write_gpickle(G1, "./Graph DS/Graph.gpickle")
+def Save_Graphs(G):
+    nx.write_gpickle(G, "./Graph DS/Graph.gpickle")
 
 
 def update_GraphVocab(G):
+    print("= = = = = = = = = = = = = = =")
+    print("Updating Emb Model Vocab..")
+    print("= = = = = = = = = = = = = = =")
     corpus = Graph_Deepwalk.build_deepwalk_corpus(G, num_paths=20)
     emb_model = Word2Vec(corpus, window=2, min_count=1, sg=1)
     emb_model.build_vocab(corpus)
@@ -51,10 +43,3 @@ def update_GraphVocab(G):
 def deleteFiles():
     for i in csvs:
         os.remove(t_csv_folder+i)
-
-
-def updation(big_G):
-    new_G = Make_Giant_Graph()
-    Compose_and_Save_Graphs(big_G, new_G)
-    update_GraphVocab(big_G)
-    deleteFiles()
