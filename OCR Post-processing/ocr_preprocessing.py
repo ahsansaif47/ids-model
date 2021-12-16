@@ -53,7 +53,7 @@ def deleteFiles():
         os.remove(t_csv_folder+i)
 
 
-def processing(big_G):
+def updation(big_G):
     new_G = Make_Giant_Graph()
     Compose_and_Save_Graphs(big_G, new_G)
     update_GraphVocab(big_G)
