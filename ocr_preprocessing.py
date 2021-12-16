@@ -10,6 +10,16 @@ t_csv_folder = "./Test Invoices Folder/CSVs/"
 
 csvs = os.listdir(t_csv_folder)
 
+"""
+Pre-Processing Pipeline:
+1. Convert CSVs to Graph.
+    1.1 Compose new CSVs Graphs.
+2. Compose new Graph with already existing graph.
+3. Save this newly created graph.
+4. Update Embeddings model vocabulary.
+5. Save embeddings model.
+"""
+
 
 def Make_Giant_Graph():
     Inc_Graph = nx.Graph()
@@ -39,14 +49,3 @@ def update_GraphVocab(G):
 
 def processing():
     pass
-
-
-"""
-Pre-Processing Pipeline:
-1. Convert CSVs to Graph.
-    1.1 Compose new CSVs Graphs.
-2. Compose new Graph with already existing graph.
-3. Save this newly created graph.
-4. Update Embeddings model vocabulary.
-5. Save embeddings model.
-"""
