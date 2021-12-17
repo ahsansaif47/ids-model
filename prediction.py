@@ -36,8 +36,7 @@ def returnText(df):
     return Text
 
 
-def computeEmbeddings(df):
-    Text = returnText(df)
+def computeEmbeddings(Text):
     _embeddings = []
 
     for t in Text:
@@ -47,25 +46,44 @@ def computeEmbeddings(df):
     return _embeddings
 
 
+data = {
+    0: 'Shipping Address',
+    1: 'Billing Info',
+    2: 'Product Description',
+    3: 'Product Description',
+    4: 'Invoice Details',
+    5: 'Issuer Address',
+    6: 'Nan',
+    7: 'Note',
+    8: 'Product Net',
+    9: 'Product Price',
+    10: 'Quantity',
+    11: 'Shipping Address',
+}
+
+
 def prediction():
     matrices = []
     Graphs = []
     pred = []
-    # ocr_postprocessing.updation(ocr_postprocessing.big_G)
-    print("= = = = = = = = = = = = = = =")
     for i in ocr_postprocessing.csvs:
         df = pd.read_csv(ocr_postprocessing.t_csv_folder + i)
-        text = df['Object'].to_list()
-        if 'remark' in text:
-            print("Found in text")
+        text = returnText(df)
         G = Grapher.makeGraph(df)
         ocr_postprocessing.big_G = nx.compose(ocr_postprocessing.big_G, G)
         ocr_postprocessing.update_GraphVocab(ocr_postprocessing.big_G)
-        emb = computeEmbeddings(df)
+        emb = computeEmbeddings(text)
+        emb = emb[0:len(emb)-1]
         M = nx.to_numpy_array(G, dtype=np.int32)
         matrices.append(M)
         Graphs.append(G)
-        l = classifier.predict_on_batch([emb, M])
+        pr = classifier.predict_on_batch([emb, M])
+        prediction = np.argmax(pr, axis=1)
+        # print(prediction)
+        i = 0
+        for p in prediction:
+            print(text[i], " is: ", data[p])
+            i += 1
 
     nx.write_gpickle(ocr_postprocessing.big_G, "./Graph DS/Graph.gpickle")
     # ocr_postprocessing.deleteFiles()
@@ -73,4 +91,4 @@ def prediction():
 
 
 prediction()
-# print(pred)
+# predictions = np.argmax(predictions, axis=1)
